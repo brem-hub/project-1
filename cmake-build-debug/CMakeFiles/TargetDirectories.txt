@@ -1,0 +1,3 @@
+/home/bremka/University/Architect/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bremka/University/Architect/project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bremka/University/Architect/project/cmake-build-debug/CMakeFiles/project.dir

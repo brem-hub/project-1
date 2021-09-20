@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/project.dir/main.cpp.o CMakeFiles/project.dir/objects/complex.cpp.o CMakeFiles/project.dir/objects/number.cpp.o CMakeFiles/project.dir/objects/fraction.cpp.o CMakeFiles/project.dir/objects/polar.cpp.o CMakeFiles/project.dir/objects/point.cpp.o CMakeFiles/project.dir/container/container.cpp.o -o ../bin/project 

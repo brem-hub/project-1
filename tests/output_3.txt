@@ -1,0 +1,2006 @@
+0: polar: w=4.202908; coords=(-44, -22)
+1: complex number: (11.184201, 21.206443)
+2: complex number: (88.510571, 29.824824)
+3: fraction: -21/73
+4: polar: w=0.979300; coords=(-68, -67)
+5: complex number: (-94.202047, -59.977663)
+6: fraction: -66/47
+7: complex number: (47.183157, -77.712841)
+8: complex number: (-63.605334, 77.798563)
+9: complex number: (-20.501756, -14.846902)
+10: fraction: -46/3
+11: fraction: -24/26
+12: fraction: -33/56
+13: complex number: (56.617113, 83.949930)
+14: fraction: -58/13
+15: fraction: -83/58
+16: complex number: (-13.140763, 71.554069)
+17: complex number: (70.191583, 18.737227)
+18: fraction: -90/12
+19: polar: w=5.080167; coords=(-39, -84)
+20: polar: w=9.378926; coords=(-30, -30)
+21: polar: w=4.096581; coords=(-70, -89)
+22: polar: w=4.026218; coords=(-91, -17)
+23: complex number: (-62.825495, 39.676993)
+24: fraction: -80/6
+25: complex number: (-78.675765, -47.331422)
+26: fraction: -67/11
+27: fraction: -5/74
+28: complex number: (79.827750, 61.167833)
+29: complex number: (80.383968, 48.746362)
+30: complex number: (10.579452, -99.542516)
+31: polar: w=1.866729; coords=(-91, -87)
+32: polar: w=8.289158; coords=(-4, -25)
+33: fraction: -56/98
+34: polar: w=4.763102; coords=(-76, -76)
+35: complex number: (91.397732, 50.262724)
+36: fraction: -65/57
+37: fraction: -88/74
+38: polar: w=0.078161; coords=(-20, -27)
+39: fraction: -39/73
+40: polar: w=6.830645; coords=(-67, -4)
+41: complex number: (-73.159264, 65.226440)
+42: complex number: (-70.201591, 79.373970)
+43: complex number: (67.221080, -25.363992)
+44: fraction: -53/88
+45: complex number: (-23.769291, 41.903045)
+46: fraction: -35/32
+47: fraction: -61/3
+48: complex number: (1.731603, 50.607427)
+49: polar: w=0.050496; coords=(-48, -16)
+50: fraction: -15/34
+51: fraction: -11/27
+52: polar: w=1.227497; coords=(-85, -89)
+53: polar: w=1.438054; coords=(-72, -11)
+54: polar: w=8.170303; coords=(-2, -61)
+55: complex number: (-1.312439, 81.007918)
+56: polar: w=0.586015; coords=(-23, -37)
+57: polar: w=6.321723; coords=(-35, -37)
+58: polar: w=2.807544; coords=(-27, -1)
+59: polar: w=2.208964; coords=(-12, -88)
+60: polar: w=1.024997; coords=(-73, -18)
+61: polar: w=1.165641; coords=(-38, -9)
+62: complex number: (-50.556437, 23.979658)
+63: fraction: -75/10
+64: complex number: (43.472767, -65.612477)
+65: polar: w=9.120446; coords=(-5, -70)
+66: fraction: -90/93
+67: fraction: -16/92
+68: fraction: -16/32
+69: complex number: (91.623089, -97.923221)
+70: complex number: (35.997961, -85.652273)
+71: fraction: -97/36
+72: fraction: -83/30
+73: complex number: (4.484413, -8.995448)
+74: fraction: -97/56
+75: complex number: (-69.633899, -26.768495)
+76: fraction: -85/13
+77: polar: w=6.304953; coords=(-52, -64)
+78: fraction: -16/21
+79: polar: w=0.005344; coords=(-37, -57)
+80: fraction: -93/49
+81: fraction: -57/31
+82: polar: w=2.394910; coords=(-20, -5)
+83: polar: w=6.726729; coords=(-2, -31)
+84: complex number: (-87.572965, 37.526334)
+85: polar: w=8.129209; coords=(-64, -64)
+86: polar: w=6.148887; coords=(-75, -14)
+87: fraction: -55/61
+88: complex number: (-53.901879, -67.483063)
+89: polar: w=4.065066; coords=(-97, -74)
+90: polar: w=2.979826; coords=(-22, -66)
+91: fraction: -27/50
+92: fraction: -77/19
+93: polar: w=9.201232; coords=(-58, -71)
+94: fraction: -22/66
+95: fraction: -86/91
+96: complex number: (76.982664, -93.437614)
+97: polar: w=5.427554; coords=(-5, -51)
+98: complex number: (33.961822, -10.848685)
+99: complex number: (94.824005, 48.747842)
+100: fraction: -92/53
+101: polar: w=7.562376; coords=(-7, -57)
+102: polar: w=8.842588; coords=(-6, -31)
+103: polar: w=7.461931; coords=(-1, -27)
+104: complex number: (-19.245679, 38.620894)
+105: fraction: -51/4
+106: fraction: -55/100
+107: fraction: -16/63
+108: polar: w=7.227518; coords=(-65, -99)
+109: polar: w=1.510700; coords=(-46, -88)
+110: fraction: -1/56
+111: polar: w=2.985968; coords=(-51, -99)
+112: complex number: (-80.497692, 92.590011)
+113: complex number: (-95.967017, -26.655668)
+114: polar: w=4.012774; coords=(-84, -17)
+115: complex number: (-2.630615, -18.886113)
+116: polar: w=1.994090; coords=(-52, -72)
+117: polar: w=6.977456; coords=(-71, -58)
+118: polar: w=9.431743; coords=(-94, -17)
+119: complex number: (3.116032, 95.891672)
+120: complex number: (73.379724, 53.248494)
+121: complex number: (92.882032, 45.838505)
+122: polar: w=9.845751; coords=(-59, -59)
+123: complex number: (50.264153, 94.209425)
+124: fraction: -77/11
+125: complex number: (-12.484654, -11.757190)
+126: polar: w=3.597376; coords=(-6, -58)
+127: complex number: (97.555039, 25.991677)
+128: fraction: -92/17
+129: complex number: (44.671358, 28.715954)
+130: complex number: (-2.080149, 2.102536)
+131: polar: w=2.187918; coords=(-51, -24)
+132: complex number: (85.894369, -62.653672)
+133: polar: w=9.005190; coords=(-36, -56)
+134: complex number: (59.121956, 48.354230)
+135: polar: w=5.088314; coords=(-8, -18)
+136: complex number: (-21.297365, 69.016878)
+137: polar: w=8.629283; coords=(-33, -99)
+138: complex number: (-37.532079, -8.675143)
+139: fraction: -8/21
+140: polar: w=0.207306; coords=(-79, -98)
+141: polar: w=2.713840; coords=(-53, -51)
+142: complex number: (69.593535, 41.131551)
+143: complex number: (28.715491, -10.514219)
+144: complex number: (-69.518238, 9.787523)
+145: polar: w=3.480243; coords=(-36, -7)
+146: fraction: -51/14
+147: complex number: (30.660541, 54.220826)
+148: fraction: -4/54
+149: polar: w=8.692418; coords=(-32, -57)
+150: complex number: (85.842048, -95.259982)
+151: polar: w=3.306736; coords=(-58, -64)
+152: polar: w=6.446416; coords=(-51, -95)
+153: polar: w=3.339289; coords=(-89, -6)
+154: polar: w=9.751486; coords=(-61, -92)
+155: polar: w=1.652733; coords=(-28, -99)
+156: complex number: (-42.907842, 57.390134)
+157: fraction: -4/20
+158: fraction: -9/45
+159: fraction: -49/69
+160: complex number: (33.496783, -85.929490)
+161: complex number: (-37.574891, -49.625479)
+162: fraction: -40/77
+163: fraction: -46/27
+164: polar: w=6.673911; coords=(-14, -1)
+165: polar: w=9.654997; coords=(-48, -85)
+166: fraction: -50/86
+167: fraction: -79/24
+168: fraction: -83/11
+169: polar: w=9.233623; coords=(-7, -79)
+170: fraction: -29/22
+171: polar: w=0.597171; coords=(-19, -25)
+172: fraction: -13/54
+173: fraction: -15/40
+174: fraction: -13/51
+175: complex number: (-59.873748, -12.218085)
+176: polar: w=4.790935; coords=(-32, -2)
+177: complex number: (56.148131, -4.937473)
+178: complex number: (29.525477, -20.265018)
+179: fraction: -7/47
+180: fraction: -33/46
+181: fraction: -52/73
+182: complex number: (86.135908, 13.701916)
+183: polar: w=5.296045; coords=(-36, -14)
+184: complex number: (95.781599, -37.587831)
+185: polar: w=4.178176; coords=(-15, -43)
+186: complex number: (86.452836, 0.333716)
+187: fraction: -50/97
+188: polar: w=8.062517; coords=(-34, -18)
+189: polar: w=0.569247; coords=(-51, -53)
+190: polar: w=4.415583; coords=(-29, -100)
+191: polar: w=8.744943; coords=(-84, -86)
+192: polar: w=4.078779; coords=(-22, -21)
+193: fraction: -52/35
+194: complex number: (33.156032, 73.146222)
+195: polar: w=1.674487; coords=(-27, -63)
+196: polar: w=6.819445; coords=(-7, -57)
+197: fraction: -5/3
+198: fraction: -6/11
+199: fraction: -83/11
+200: fraction: -87/80
+201: polar: w=5.951277; coords=(-67, -68)
+202: fraction: -100/82
+203: polar: w=2.183503; coords=(-14, -100)
+204: fraction: -85/74
+205: polar: w=9.189684; coords=(-14, -74)
+206: fraction: -18/74
+207: complex number: (86.701131, -99.630328)
+208: fraction: -28/37
+209: polar: w=2.654110; coords=(-51, -55)
+210: polar: w=5.818307; coords=(-21, -6)
+211: fraction: -69/76
+212: fraction: -64/15
+213: polar: w=5.189545; coords=(-19, -45)
+214: fraction: -74/95
+215: fraction: -35/77
+216: fraction: -93/55
+217: polar: w=3.866406; coords=(-21, -34)
+218: polar: w=7.146626; coords=(-33, -29)
+219: fraction: -2/3
+220: complex number: (-62.689119, -24.024559)
+221: polar: w=3.095417; coords=(-26, -59)
+222: complex number: (39.865834, 58.949599)
+223: polar: w=8.444244; coords=(-100, -96)
+224: complex number: (-10.910449, -36.536073)
+225: complex number: (-72.587095, 70.646365)
+226: polar: w=5.237051; coords=(-83, -31)
+227: fraction: -92/89
+228: fraction: -39/87
+229: complex number: (-75.720676, 87.797428)
+230: fraction: -64/97
+231: polar: w=0.037751; coords=(-2, -42)
+232: polar: w=3.561934; coords=(-24, -96)
+233: fraction: -67/71
+234: fraction: -47/96
+235: polar: w=3.606598; coords=(-16, -96)
+236: polar: w=5.679014; coords=(-87, -35)
+237: complex number: (62.484234, -79.183152)
+238: complex number: (86.763558, -91.385724)
+239: polar: w=7.035643; coords=(-25, -85)
+240: fraction: -74/26
+241: polar: w=4.962502; coords=(-98, -40)
+242: fraction: -65/83
+243: polar: w=4.288766; coords=(-23, -10)
+244: fraction: -38/96
+245: polar: w=4.997766; coords=(-40, -11)
+246: polar: w=1.152907; coords=(-8, -14)
+247: complex number: (-49.440568, 1.088653)
+248: polar: w=5.443974; coords=(-85, -98)
+249: complex number: (31.707652, 93.174906)
+250: fraction: -5/71
+251: polar: w=9.230100; coords=(-48, -82)
+252: complex number: (-21.075489, 80.256926)
+253: polar: w=3.264977; coords=(-44, -59)
+254: polar: w=9.457363; coords=(-18, -36)
+255: polar: w=2.107805; coords=(-49, -72)
+256: fraction: -1/27
+257: fraction: -33/81
+258: polar: w=9.364339; coords=(-10, -68)
+259: complex number: (66.678164, 24.238925)
+260: fraction: -36/70
+261: polar: w=8.699370; coords=(-70, -72)
+262: complex number: (73.837979, -40.826528)
+263: complex number: (62.985246, -40.615594)
+264: polar: w=8.759533; coords=(-21, -31)
+265: polar: w=9.712801; coords=(-79, -85)
+266: complex number: (29.573232, -65.656433)
+267: complex number: (16.860014, -7.917423)
+268: fraction: -97/50
+269: polar: w=4.755791; coords=(-87, -51)
+270: fraction: -89/81
+271: complex number: (67.097962, 17.312793)
+272: fraction: -42/26
+273: polar: w=0.296759; coords=(-14, -63)
+274: fraction: -25/17
+275: fraction: -57/42
+276: fraction: -10/87
+277: fraction: -72/68
+278: fraction: -71/48
+279: fraction: -57/49
+280: polar: w=4.465374; coords=(-72, -16)
+281: complex number: (-27.281011, -1.113036)
+282: polar: w=7.650851; coords=(-56, -100)
+283: fraction: -19/99
+284: polar: w=6.646814; coords=(-31, -20)
+285: complex number: (-59.851375, 40.527680)
+286: polar: w=3.505579; coords=(-49, -5)
+287: polar: w=4.855630; coords=(-58, -93)
+288: complex number: (47.881014, -61.785170)
+289: fraction: -29/98
+290: polar: w=8.800310; coords=(-17, -33)
+291: fraction: -73/69
+292: polar: w=4.291456; coords=(-82, -54)
+293: complex number: (36.909242, -17.560669)
+294: complex number: (77.057867, -77.032989)
+295: fraction: -40/53
+296: fraction: -87/86
+297: polar: w=5.672900; coords=(-40, -90)
+298: complex number: (-83.954989, 39.975984)
+299: polar: w=1.018350; coords=(-96, -35)
+300: polar: w=2.250270; coords=(-56, -75)
+301: complex number: (-67.520092, 28.945340)
+302: complex number: (-48.754695, -34.145419)
+303: polar: w=2.008264; coords=(-96, -59)
+304: polar: w=4.504095; coords=(-7, -31)
+305: fraction: -70/89
+306: polar: w=3.836825; coords=(-2, -64)
+307: complex number: (89.125620, -81.268121)
+308: complex number: (5.107802, 71.122540)
+309: polar: w=7.505661; coords=(-20, -92)
+310: complex number: (50.253236, -86.090138)
+311: fraction: -44/88
+312: complex number: (-58.336183, 22.676891)
+313: complex number: (-87.541212, -87.241215)
+314: complex number: (36.111890, 63.771565)
+315: complex number: (48.572752, -71.757653)
+316: polar: w=9.886119; coords=(-77, -2)
+317: complex number: (-36.882160, 54.683113)
+318: polar: w=1.712019; coords=(-44, -16)
+319: polar: w=0.276519; coords=(-15, -52)
+320: complex number: (-11.360294, 3.765484)
+321: fraction: -47/29
+322: complex number: (30.597525, 57.888089)
+323: complex number: (94.006030, -6.000021)
+324: polar: w=3.301129; coords=(-80, -16)
+325: polar: w=2.014756; coords=(-93, -78)
+326: fraction: -51/48
+327: fraction: -73/4
+328: complex number: (20.412152, 37.089567)
+329: fraction: -62/42
+330: complex number: (26.444580, -44.265522)
+331: complex number: (-28.126119, -22.383953)
+332: polar: w=1.488099; coords=(-87, -34)
+333: fraction: -90/77
+334: fraction: -6/1
+335: complex number: (-91.637193, 52.513964)
+336: fraction: -97/70
+337: polar: w=5.545966; coords=(-76, -21)
+338: polar: w=1.607804; coords=(-46, -90)
+339: complex number: (-25.551356, 80.455144)
+340: polar: w=8.262529; coords=(-72, -54)
+341: complex number: (-17.909005, -65.707202)
+342: fraction: -82/23
+343: fraction: -47/69
+344: complex number: (78.817426, -9.353496)
+345: complex number: (-87.409648, -66.832625)
+346: polar: w=8.273111; coords=(-41, -3)
+347: complex number: (75.418158, -77.068785)
+348: complex number: (-70.571278, -88.382912)
+349: fraction: -1/30
+350: polar: w=3.110645; coords=(-24, -23)
+351: fraction: -60/80
+352: fraction: -38/10
+353: fraction: -18/40
+354: fraction: -97/92
+355: complex number: (63.425326, -51.087784)
+356: polar: w=5.375601; coords=(-35, -54)
+357: complex number: (-37.381427, -11.857089)
+358: complex number: (-25.764338, -7.982024)
+359: complex number: (30.273102, -38.856374)
+360: complex number: (8.346940, -83.080671)
+361: polar: w=6.035679; coords=(-7, -25)
+362: polar: w=0.803273; coords=(-71, -58)
+363: complex number: (2.422710, -52.089274)
+364: polar: w=0.808747; coords=(-70, -48)
+365: complex number: (18.848069, -21.129130)
+366: complex number: (-98.221756, 41.489443)
+367: complex number: (14.137141, -84.274895)
+368: polar: w=1.818995; coords=(-91, -33)
+369: polar: w=2.717257; coords=(-18, -93)
+370: fraction: -73/35
+371: polar: w=5.157289; coords=(-36, -31)
+372: fraction: -65/20
+373: polar: w=7.418497; coords=(-51, -36)
+374: polar: w=7.442383; coords=(-66, -95)
+375: fraction: -36/98
+376: fraction: -53/80
+377: fraction: -43/48
+378: complex number: (-93.902922, -17.879069)
+379: complex number: (81.155800, 69.201243)
+380: fraction: -30/43
+381: fraction: -8/71
+382: polar: w=1.183611; coords=(-18, -21)
+383: fraction: -2/49
+384: fraction: -67/54
+385: polar: w=7.564071; coords=(-50, -61)
+386: polar: w=3.327086; coords=(-39, -94)
+387: polar: w=2.051496; coords=(-17, -38)
+388: fraction: -74/23
+389: fraction: -3/66
+390: polar: w=6.765224; coords=(-65, -9)
+391: fraction: -31/71
+392: complex number: (-71.678423, -30.797683)
+393: polar: w=9.478719; coords=(-76, -2)
+394: complex number: (-86.589874, 86.221845)
+395: complex number: (-20.048154, 5.273253)
+396: fraction: -10/68
+397: polar: w=1.736931; coords=(-1, -78)
+398: fraction: -72/20
+399: complex number: (-85.858726, -16.797619)
+400: fraction: -39/14
+401: complex number: (-66.239731, -45.172423)
+402: fraction: -49/24
+403: complex number: (24.211793, -61.691035)
+404: fraction: -98/65
+405: polar: w=0.878688; coords=(-85, -55)
+406: complex number: (-23.892763, 55.449276)
+407: complex number: (35.013939, 73.051386)
+408: complex number: (-93.390756, 20.949297)
+409: complex number: (-79.249483, -95.848323)
+410: complex number: (-60.509870, -53.669253)
+411: complex number: (-26.749600, 1.158324)
+412: polar: w=8.810649; coords=(-41, -92)
+413: fraction: -15/90
+414: polar: w=1.699683; coords=(-26, -26)
+415: fraction: -81/28
+416: complex number: (32.125678, 58.076150)
+417: fraction: -75/26
+418: polar: w=1.306318; coords=(-44, -67)
+419: polar: w=2.539945; coords=(-21, -35)
+420: fraction: -44/2
+421: fraction: -63/13
+422: complex number: (91.656965, 58.383865)
+423: fraction: -45/47
+424: polar: w=4.266206; coords=(-38, -37)
+425: complex number: (96.080237, -99.056321)
+426: fraction: -52/2
+427: polar: w=7.626365; coords=(-38, -21)
+428: polar: w=8.126257; coords=(-2, -90)
+429: polar: w=0.245472; coords=(-81, -11)
+430: fraction: -92/2
+431: polar: w=9.724156; coords=(-50, -7)
+432: fraction: -52/86
+433: polar: w=3.637935; coords=(-52, -53)
+434: fraction: -75/98
+435: polar: w=5.178403; coords=(-80, -75)
+436: complex number: (-96.460383, 47.171357)
+437: polar: w=7.936927; coords=(-29, -1)
+438: complex number: (-44.659905, -45.624733)
+439: complex number: (-41.833750, -79.802692)
+440: polar: w=2.632468; coords=(-9, -50)
+441: polar: w=3.049333; coords=(-13, -51)
+442: fraction: -13/49
+443: complex number: (-40.560072, 87.854399)
+444: polar: w=8.150399; coords=(-83, -65)
+445: fraction: -31/45
+446: fraction: -30/68
+447: fraction: -46/10
+448: complex number: (-71.012274, -60.788394)
+449: fraction: -7/15
+450: complex number: (-30.949640, 68.697129)
+451: fraction: -18/28
+452: complex number: (96.531943, 25.705286)
+453: fraction: -14/26
+454: complex number: (-81.020141, -99.446320)
+455: complex number: (-82.196990, -8.912707)
+456: complex number: (-85.033533, 40.359452)
+457: complex number: (-50.395844, 53.279601)
+458: complex number: (38.617112, 82.267327)
+459: polar: w=2.391369; coords=(-31, -56)
+460: polar: w=9.128236; coords=(-79, -78)
+461: fraction: -100/41
+462: polar: w=9.868445; coords=(-11, -95)
+463: fraction: -52/87
+464: fraction: -9/8
+465: complex number: (-53.092506, -78.642806)
+466: polar: w=4.135593; coords=(-6, -11)
+467: polar: w=0.478923; coords=(-35, -11)
+468: fraction: -66/86
+469: complex number: (74.555001, -79.835399)
+470: fraction: -100/60
+471: fraction: -29/40
+472: fraction: -23/97
+473: complex number: (63.490606, 11.607965)
+474: polar: w=8.494067; coords=(-89, -75)
+475: fraction: -88/18
+476: polar: w=7.665757; coords=(-23, -53)
+477: complex number: (-15.128973, 29.184177)
+478: polar: w=9.420810; coords=(-65, -46)
+479: complex number: (-37.081462, -10.004585)
+480: fraction: -82/78
+481: polar: w=2.839154; coords=(-94, -90)
+482: polar: w=1.684197; coords=(-42, -86)
+483: complex number: (-84.482674, -32.916128)
+484: polar: w=3.631193; coords=(-91, -56)
+485: fraction: -62/92
+486: fraction: -44/81
+487: complex number: (-0.694172, 45.997062)
+488: fraction: -73/25
+489: polar: w=0.414783; coords=(-57, -50)
+490: polar: w=8.394568; coords=(-44, -70)
+491: fraction: -70/42
+492: complex number: (72.576232, 4.490767)
+493: polar: w=8.369002; coords=(-4, -45)
+494: complex number: (-96.946376, -2.084675)
+495: complex number: (-39.216297, -91.195053)
+496: polar: w=7.114758; coords=(-86, -37)
+497: fraction: -7/88
+498: complex number: (-75.706931, -22.847135)
+499: complex number: (-77.805133, -54.955783)
+500: fraction: -50/87
+501: fraction: -9/90
+502: polar: w=0.164636; coords=(-65, -14)
+503: fraction: -10/11
+504: fraction: -65/79
+505: complex number: (-5.236835, -9.904513)
+506: fraction: -98/41
+507: complex number: (-81.128648, -86.730937)
+508: polar: w=2.158221; coords=(-38, -37)
+509: polar: w=6.773307; coords=(-92, -39)
+510: polar: w=0.584680; coords=(-48, -12)
+511: complex number: (77.282445, -74.390327)
+512: polar: w=7.884489; coords=(-83, -9)
+513: fraction: -48/22
+514: fraction: -11/48
+515: complex number: (97.247890, 89.223158)
+516: fraction: -61/20
+517: complex number: (-40.716337, -7.085851)
+518: complex number: (24.642951, -71.619705)
+519: polar: w=9.991537; coords=(-58, -20)
+520: polar: w=5.314371; coords=(-26, -32)
+521: fraction: -45/32
+522: polar: w=3.340716; coords=(-18, -20)
+523: complex number: (-64.661164, -60.465597)
+524: polar: w=0.363702; coords=(-35, -41)
+525: complex number: (-47.098465, -47.568422)
+526: fraction: -13/61
+527: polar: w=1.841407; coords=(-45, -39)
+528: complex number: (70.549941, 98.571611)
+529: complex number: (-23.162629, -54.695509)
+530: complex number: (-91.265527, 39.179176)
+531: complex number: (54.284143, -94.006504)
+532: polar: w=9.972230; coords=(-5, -54)
+533: complex number: (85.427211, 62.931309)
+534: complex number: (-64.633433, 50.823344)
+535: fraction: -96/4
+536: complex number: (-66.856128, 28.257184)
+537: complex number: (-93.130106, -74.176396)
+538: complex number: (77.419835, -75.604785)
+539: fraction: -89/97
+540: polar: w=3.149584; coords=(-29, -65)
+541: polar: w=0.743619; coords=(-27, -66)
+542: polar: w=1.637370; coords=(-41, -93)
+543: fraction: -50/34
+544: polar: w=3.006177; coords=(-11, -88)
+545: fraction: -95/34
+546: fraction: -71/21
+547: complex number: (-34.391085, -55.019592)
+548: polar: w=5.993306; coords=(-56, -96)
+549: polar: w=6.177950; coords=(-9, -45)
+550: complex number: (38.055809, -83.145959)
+551: complex number: (70.803213, -27.446540)
+552: polar: w=8.324096; coords=(-50, -53)
+553: complex number: (-35.862287, -88.422153)
+554: polar: w=8.255464; coords=(-7, -21)
+555: complex number: (81.086112, 94.835169)
+556: fraction: -70/100
+557: complex number: (66.561147, 54.495690)
+558: fraction: -78/12
+559: fraction: -23/25
+560: polar: w=8.320330; coords=(-21, -84)
+561: complex number: (-2.473810, -4.962365)
+562: polar: w=3.046436; coords=(-26, -36)
+563: polar: w=9.375500; coords=(-5, -27)
+564: complex number: (-84.021748, 46.489716)
+565: polar: w=2.635904; coords=(-21, -50)
+566: fraction: -72/47
+567: complex number: (9.164836, -71.038894)
+568: fraction: -69/34
+569: fraction: -51/13
+570: polar: w=3.204204; coords=(-43, -45)
+571: fraction: -51/30
+572: fraction: -71/50
+573: fraction: -45/1
+574: complex number: (-17.197204, 80.915441)
+575: fraction: -14/55
+576: complex number: (-64.266572, 28.232590)
+577: complex number: (44.898265, 57.193696)
+578: complex number: (-96.384331, -97.359137)
+579: fraction: -100/60
+580: polar: w=4.641188; coords=(-84, -29)
+581: polar: w=3.923297; coords=(-100, -51)
+582: polar: w=1.703881; coords=(-6, -46)
+583: complex number: (-97.186338, -31.508707)
+584: fraction: -89/49
+585: fraction: -7/16
+586: polar: w=7.428681; coords=(-65, -24)
+587: fraction: -13/23
+588: complex number: (57.465878, -52.704475)
+589: polar: w=2.514482; coords=(-98, -76)
+590: complex number: (5.824500, 17.455570)
+591: fraction: -81/78
+592: fraction: -74/32
+593: complex number: (-90.620293, -50.755542)
+594: complex number: (53.858540, -34.116020)
+595: fraction: -45/63
+596: complex number: (-40.818675, 12.821901)
+597: polar: w=9.395376; coords=(-88, -21)
+598: fraction: -54/34
+599: fraction: -52/10
+600: polar: w=9.900358; coords=(-14, -62)
+601: polar: w=7.060899; coords=(-10, -83)
+602: polar: w=2.110429; coords=(-43, -66)
+603: fraction: -2/82
+604: complex number: (91.404536, -22.966385)
+605: fraction: -52/82
+606: complex number: (-61.506619, -92.615912)
+607: complex number: (83.866778, -27.791814)
+608: complex number: (79.529821, 64.390843)
+609: fraction: -38/61
+610: complex number: (35.423504, 15.605076)
+611: complex number: (-89.849586, -90.299435)
+612: complex number: (-47.641003, 13.175761)
+613: complex number: (-80.049241, 70.509496)
+614: polar: w=6.658509; coords=(-18, -44)
+615: fraction: -18/90
+616: polar: w=2.549664; coords=(-65, -91)
+617: fraction: -21/45
+618: polar: w=9.957132; coords=(-63, -44)
+619: fraction: -81/57
+620: polar: w=7.618701; coords=(-1, -44)
+621: fraction: -97/87
+622: fraction: -51/64
+623: fraction: -86/98
+624: fraction: -93/80
+625: fraction: -82/93
+626: polar: w=4.101171; coords=(-91, -74)
+627: polar: w=2.259434; coords=(-3, -87)
+628: fraction: -71/34
+629: polar: w=1.991232; coords=(-98, -81)
+630: polar: w=2.806502; coords=(-78, -42)
+631: polar: w=7.038754; coords=(-27, -25)
+632: fraction: -78/93
+633: fraction: -98/52
+634: polar: w=8.527716; coords=(-2, -53)
+635: complex number: (59.813121, 76.371138)
+636: polar: w=8.047569; coords=(-63, -29)
+637: polar: w=7.700637; coords=(-61, -82)
+638: polar: w=1.852781; coords=(-58, -7)
+639: fraction: -47/60
+640: polar: w=5.702166; coords=(-14, -6)
+641: fraction: -70/44
+642: fraction: -66/12
+643: complex number: (-85.006565, 35.917688)
+644: complex number: (74.806557, 12.288825)
+645: complex number: (35.757931, 36.518881)
+646: polar: w=2.969410; coords=(-58, -65)
+647: complex number: (26.701050, -3.075058)
+648: fraction: -87/30
+649: fraction: -28/87
+650: complex number: (-55.875072, -29.363855)
+651: fraction: -60/77
+652: complex number: (67.903041, 80.883788)
+653: fraction: -42/98
+654: polar: w=7.885152; coords=(-68, -80)
+655: fraction: -48/65
+656: complex number: (-43.859200, 49.904164)
+657: complex number: (82.841850, -53.170894)
+658: polar: w=0.092119; coords=(-74, -51)
+659: polar: w=7.101585; coords=(-70, -87)
+660: polar: w=2.491230; coords=(-47, -28)
+661: polar: w=4.399687; coords=(-89, -66)
+662: polar: w=1.826146; coords=(-67, -39)
+663: polar: w=2.860998; coords=(-87, -3)
+664: fraction: -47/44
+665: polar: w=2.529784; coords=(-91, -34)
+666: polar: w=3.602372; coords=(-56, -56)
+667: fraction: -44/27
+668: fraction: -47/39
+669: complex number: (1.471876, -74.491290)
+670: polar: w=1.059666; coords=(-80, -20)
+671: complex number: (-88.587955, 54.217616)
+672: polar: w=3.431600; coords=(-94, -8)
+673: fraction: -41/88
+674: complex number: (-98.229089, 12.120174)
+675: polar: w=7.051392; coords=(-15, -37)
+676: complex number: (-78.546293, -85.065165)
+677: fraction: -67/25
+678: complex number: (-65.156229, -20.959076)
+679: complex number: (-10.422095, 0.234253)
+680: complex number: (-84.797736, 57.950511)
+681: complex number: (69.419880, -18.720001)
+682: polar: w=2.284586; coords=(-12, -28)
+683: polar: w=3.887351; coords=(-28, -64)
+684: complex number: (-43.986866, 39.665687)
+685: fraction: -95/50
+686: complex number: (35.916441, 57.119164)
+687: fraction: -47/98
+688: complex number: (92.526412, 59.688508)
+689: complex number: (-7.239335, 49.691243)
+690: fraction: -97/62
+691: polar: w=6.599559; coords=(-45, -55)
+692: fraction: -73/23
+693: polar: w=5.303284; coords=(-89, -13)
+694: complex number: (53.497914, -90.527933)
+695: fraction: -46/41
+696: complex number: (49.016509, -31.447537)
+697: polar: w=4.733300; coords=(-67, -7)
+698: complex number: (55.001691, -82.250566)
+699: polar: w=7.910876; coords=(-97, -20)
+700: polar: w=0.022589; coords=(-65, -70)
+701: fraction: -85/53
+702: fraction: -34/64
+703: polar: w=7.576772; coords=(-79, -10)
+704: polar: w=6.180126; coords=(-69, -4)
+705: fraction: -4/31
+706: complex number: (-0.744559, 11.023865)
+707: polar: w=2.712857; coords=(-24, -45)
+708: polar: w=9.861695; coords=(-65, -38)
+709: polar: w=7.857079; coords=(-56, -27)
+710: complex number: (-43.116424, 79.805497)
+711: polar: w=1.754542; coords=(-81, -79)
+712: polar: w=4.392100; coords=(-11, -35)
+713: fraction: -15/30
+714: complex number: (-44.271718, 30.302569)
+715: fraction: -56/16
+716: fraction: -28/72
+717: fraction: -97/59
+718: polar: w=4.522253; coords=(-67, -22)
+719: complex number: (56.138467, 42.531398)
+720: fraction: -68/92
+721: polar: w=8.382609; coords=(-71, -29)
+722: polar: w=1.740838; coords=(-36, -69)
+723: polar: w=9.426091; coords=(-1, -95)
+724: polar: w=3.797312; coords=(-27, -32)
+725: complex number: (-42.293689, -41.250460)
+726: fraction: -94/22
+727: fraction: -60/100
+728: polar: w=4.395755; coords=(-22, -83)
+729: complex number: (-42.309733, 12.591617)
+730: fraction: -98/2
+731: fraction: -52/66
+732: complex number: (-65.240417, 58.951885)
+733: polar: w=8.144823; coords=(-3, -19)
+734: polar: w=6.974573; coords=(-100, -98)
+735: complex number: (-0.223592, 16.852420)
+736: fraction: -64/1
+737: complex number: (-34.465791, 36.544138)
+738: polar: w=5.641351; coords=(-33, -23)
+739: complex number: (-47.718286, 27.533253)
+740: polar: w=3.887461; coords=(-72, -21)
+741: polar: w=9.960905; coords=(-98, -54)
+742: fraction: -1/80
+743: fraction: -83/80
+744: complex number: (-11.181245, 44.205410)
+745: fraction: -51/40
+746: polar: w=6.330751; coords=(-96, -75)
+747: fraction: -66/94
+748: polar: w=0.121888; coords=(-83, -57)
+749: complex number: (48.415123, -88.233985)
+750: polar: w=5.254884; coords=(-22, -10)
+751: complex number: (73.098689, 26.789263)
+752: complex number: (78.188692, -82.632975)
+753: complex number: (-16.039560, 6.185780)
+754: complex number: (6.584608, -54.865655)
+755: fraction: -28/63
+756: fraction: -2/98
+757: polar: w=0.200968; coords=(-40, -5)
+758: fraction: -97/5
+759: complex number: (44.946596, 38.491415)
+760: polar: w=7.796536; coords=(-14, -35)
+761: complex number: (-59.016370, -63.103016)
+762: complex number: (-41.649345, 40.117273)
+763: fraction: -76/31
+764: fraction: -88/42
+765: fraction: -26/5
+766: polar: w=7.375949; coords=(-95, -24)
+767: polar: w=6.046493; coords=(-64, -61)
+768: fraction: -9/19
+769: complex number: (-8.760809, -32.550036)
+770: complex number: (-30.655111, 96.479368)
+771: fraction: -77/33
+772: complex number: (-53.640854, -5.124002)
+773: polar: w=1.695106; coords=(-66, -51)
+774: complex number: (-31.759893, -88.101248)
+775: polar: w=6.473812; coords=(-1, -76)
+776: fraction: -65/26
+777: fraction: -73/35
+778: polar: w=3.545085; coords=(-13, -35)
+779: complex number: (-32.510697, -41.702281)
+780: fraction: -52/13
+781: complex number: (21.681449, -89.101263)
+782: fraction: -53/24
+783: polar: w=8.648395; coords=(-15, -13)
+784: complex number: (23.760598, 23.759996)
+785: fraction: -73/73
+786: complex number: (29.946955, -46.835759)
+787: polar: w=9.887820; coords=(-99, -13)
+788: polar: w=6.991536; coords=(-89, -45)
+789: complex number: (-59.438924, -58.792063)
+790: complex number: (-20.910421, 62.889386)
+791: polar: w=0.624704; coords=(-36, -51)
+792: fraction: -87/35
+793: complex number: (-36.786775, -45.542227)
+794: complex number: (-92.502386, -79.153381)
+795: fraction: -75/75
+796: complex number: (-58.931537, 48.549971)
+797: complex number: (-91.553174, -43.141444)
+798: fraction: -82/2
+799: complex number: (54.737938, -26.135618)
+800: fraction: -5/76
+801: fraction: -32/40
+802: fraction: -40/5
+803: complex number: (17.680798, -16.307764)
+804: fraction: -32/56
+805: complex number: (49.335481, -64.218342)
+806: complex number: (77.572934, -23.149878)
+807: polar: w=7.834413; coords=(-93, -47)
+808: fraction: -75/56
+809: fraction: -70/13
+810: complex number: (88.039264, 77.155127)
+811: fraction: -54/80
+812: polar: w=0.961009; coords=(-17, -17)
+813: fraction: -23/83
+814: polar: w=5.732433; coords=(-1, -10)
+815: fraction: -58/1
+816: polar: w=6.990783; coords=(-48, -76)
+817: complex number: (-29.605758, 12.051200)
+818: polar: w=3.155151; coords=(-16, -25)
+819: complex number: (-45.697788, 57.789655)
+820: polar: w=4.433154; coords=(-55, -26)
+821: complex number: (-83.156204, -41.436359)
+822: polar: w=2.015130; coords=(-9, -60)
+823: complex number: (-50.471442, -83.553776)
+824: complex number: (-87.677761, -45.482110)
+825: polar: w=7.606895; coords=(-13, -97)
+826: complex number: (19.672064, 57.290623)
+827: polar: w=9.138754; coords=(-59, -64)
+828: fraction: -97/4
+829: complex number: (66.518857, 81.568661)
+830: fraction: -71/30
+831: polar: w=5.959318; coords=(-60, -20)
+832: fraction: -69/24
+833: complex number: (-0.952075, -25.982257)
+834: polar: w=1.585498; coords=(-48, -7)
+835: complex number: (51.989730, 15.047847)
+836: polar: w=5.902849; coords=(-34, -28)
+837: complex number: (-83.847679, 35.649357)
+838: fraction: -76/40
+839: complex number: (-65.807050, 76.570329)
+840: polar: w=6.557651; coords=(-31, -26)
+841: polar: w=8.544527; coords=(-43, -5)
+842: complex number: (-19.339344, -20.966797)
+843: complex number: (12.370613, 5.188844)
+844: polar: w=9.466000; coords=(-41, -61)
+845: complex number: (75.235562, -83.184872)
+846: fraction: -80/81
+847: fraction: -76/57
+848: fraction: -23/61
+849: polar: w=5.464738; coords=(-99, -40)
+850: complex number: (37.429896, 62.388684)
+851: complex number: (42.445357, -75.140713)
+852: complex number: (-78.521440, -66.572150)
+853: fraction: -15/91
+854: polar: w=9.192299; coords=(-71, -46)
+855: complex number: (73.179515, 66.118718)
+856: complex number: (-93.853036, 83.121645)
+857: polar: w=1.745547; coords=(-91, -11)
+858: complex number: (98.034253, -22.321383)
+859: complex number: (89.532406, 74.919776)
+860: fraction: -13/45
+861: complex number: (76.780377, -86.711787)
+862: complex number: (-89.791773, -14.826628)
+863: fraction: -8/47
+864: complex number: (-96.055190, -68.856326)
+865: fraction: -40/11
+866: polar: w=9.163564; coords=(-51, -39)
+867: complex number: (-17.323178, -61.293302)
+868: fraction: -37/8
+869: polar: w=3.512174; coords=(-48, -5)
+870: fraction: -4/31
+871: complex number: (58.366970, -97.379711)
+872: fraction: -33/40
+873: fraction: -87/85
+874: complex number: (-78.937458, -10.609150)
+875: polar: w=0.916247; coords=(-7, -24)
+876: complex number: (-78.283895, -60.743749)
+877: polar: w=3.021140; coords=(-77, -44)
+878: fraction: -96/38
+879: fraction: -48/6
+880: polar: w=0.502927; coords=(-28, -38)
+881: complex number: (-37.396958, -84.900720)
+882: complex number: (19.336639, -94.981853)
+883: polar: w=9.000752; coords=(-35, -54)
+884: complex number: (-55.594377, -97.453439)
+885: polar: w=2.155730; coords=(-2, -9)
+886: complex number: (-15.314530, -66.545602)
+887: complex number: (-38.506412, 96.788653)
+888: fraction: -5/24
+889: complex number: (42.798765, -92.382949)
+890: fraction: -22/83
+891: polar: w=6.472849; coords=(-53, -12)
+892: fraction: -52/24
+893: complex number: (68.509753, -93.335110)
+894: fraction: -15/19
+895: complex number: (95.318981, 23.704738)
+896: complex number: (-19.995550, 57.159136)
+897: fraction: -83/100
+898: polar: w=3.555242; coords=(-26, -14)
+899: complex number: (59.123357, 78.446181)
+900: polar: w=8.970962; coords=(-31, -29)
+901: fraction: -43/78
+902: polar: w=3.281039; coords=(-100, -41)
+903: polar: w=7.885534; coords=(-56, -41)
+904: complex number: (87.254742, -58.452897)
+905: complex number: (-32.740808, 98.706239)
+906: complex number: (-91.242770, 52.654028)
+907: complex number: (-20.137934, 4.160334)
+908: fraction: -10/58
+909: complex number: (-77.973029, -57.297079)
+910: complex number: (-20.254743, 77.716160)
+911: complex number: (-28.061329, -69.914146)
+912: fraction: -44/61
+913: fraction: -75/58
+914: polar: w=9.409264; coords=(-11, -96)
+915: complex number: (-2.585003, 86.365513)
+916: fraction: -93/54
+917: polar: w=9.301715; coords=(-21, -54)
+918: fraction: -64/17
+919: complex number: (49.166487, 46.172909)
+920: fraction: -52/6
+921: fraction: -50/36
+922: fraction: -38/11
+923: fraction: -81/94
+924: fraction: -92/50
+925: polar: w=8.920283; coords=(-46, -40)
+926: complex number: (-20.053318, -60.850419)
+927: polar: w=6.156328; coords=(-81, -41)
+928: polar: w=7.933400; coords=(-28, -13)
+929: polar: w=1.690564; coords=(-13, -52)
+930: polar: w=3.130388; coords=(-65, -2)
+931: complex number: (54.687729, -73.881759)
+932: complex number: (21.590085, -25.099128)
+933: fraction: -7/90
+934: polar: w=0.853943; coords=(-51, -13)
+935: polar: w=7.439889; coords=(-13, -51)
+936: fraction: -2/77
+937: polar: w=6.930704; coords=(-85, -28)
+938: complex number: (34.138083, 79.768626)
+939: complex number: (96.745842, 13.666170)
+940: fraction: -4/7
+941: complex number: (88.663832, 89.943984)
+942: complex number: (91.030931, -33.904303)
+943: complex number: (71.803698, -16.825449)
+944: fraction: -5/2
+945: polar: w=8.655860; coords=(-97, -95)
+946: complex number: (-49.905604, 83.398480)
+947: polar: w=3.929661; coords=(-94, -13)
+948: polar: w=0.077928; coords=(-27, -6)
+949: complex number: (-44.452489, -23.235449)
+950: fraction: -85/12
+951: complex number: (-66.778372, -43.540686)
+952: polar: w=2.487052; coords=(-29, -18)
+953: polar: w=3.270869; coords=(-65, -35)
+954: polar: w=5.167257; coords=(-30, -65)
+955: polar: w=4.206023; coords=(-9, -35)
+956: polar: w=3.333236; coords=(-85, -10)
+957: complex number: (-45.758795, -77.306292)
+958: complex number: (31.005757, -93.727656)
+959: complex number: (96.434139, 79.794964)
+960: fraction: -74/14
+961: polar: w=4.057823; coords=(-5, -42)
+962: complex number: (-54.800896, 69.170883)
+963: polar: w=7.427212; coords=(-54, -48)
+964: fraction: -50/45
+965: polar: w=2.996187; coords=(-73, -29)
+966: polar: w=7.143843; coords=(-68, -66)
+967: polar: w=8.201377; coords=(-89, -25)
+968: complex number: (76.153722, -52.559148)
+969: polar: w=9.778350; coords=(-70, -28)
+970: complex number: (8.125856, -58.914566)
+971: complex number: (-22.703261, -73.806152)
+972: polar: w=7.359480; coords=(-42, -57)
+973: fraction: -46/100
+974: polar: w=6.726517; coords=(-78, -67)
+975: fraction: -45/21
+976: complex number: (43.346697, 14.964553)
+977: fraction: -12/21
+978: complex number: (17.163515, -13.314723)
+979: polar: w=0.583756; coords=(-33, -15)
+980: polar: w=0.371534; coords=(-99, -18)
+981: polar: w=4.872562; coords=(-59, -9)
+982: polar: w=3.844039; coords=(-58, -92)
+983: complex number: (-13.738406, -11.699771)
+984: fraction: -76/66
+985: polar: w=0.446372; coords=(-51, -54)
+986: polar: w=0.649443; coords=(-91, -80)
+987: fraction: -45/9
+988: polar: w=0.098844; coords=(-16, -94)
+989: fraction: -33/7
+990: fraction: -40/50
+991: fraction: -41/92
+992: polar: w=2.493238; coords=(-40, -56)
+993: complex number: (34.764424, 3.331032)
+994: fraction: -100/11
+995: polar: w=2.821385; coords=(-68, -46)
+996: fraction: -76/62
+997: polar: w=3.099857; coords=(-46, -79)
+998: polar: w=1.842007; coords=(-12, -100)
+999: complex number: (57.098742, 7.028647)
+=======================
+
+number of elements: 1000
+
+====| Straight Sort results | ====
+
+0: fraction: -64/1
+1: fraction: -58/1
+2: fraction: -98/2
+3: fraction: -92/2
+4: fraction: -45/1
+5: fraction: -82/2
+6: fraction: -52/2
+7: fraction: -97/4
+8: fraction: -96/4
+9: fraction: -44/2
+10: fraction: -61/3
+11: fraction: -97/5
+12: fraction: -73/4
+13: fraction: -46/3
+14: fraction: -80/6
+15: fraction: -51/4
+16: fraction: -100/11
+17: fraction: -52/6
+18: fraction: -40/5
+19: fraction: -48/6
+20: fraction: -83/11
+21: fraction: -83/11
+22: fraction: -90/12
+23: fraction: -75/10
+24: fraction: -85/12
+25: fraction: -77/11
+26: fraction: -85/13
+27: fraction: -78/12
+28: fraction: -67/11
+29: fraction: -6/1
+30: fraction: -66/12
+31: fraction: -92/17
+32: fraction: -70/13
+33: fraction: -74/14
+34: fraction: -52/10
+35: fraction: -26/5
+36: fraction: -45/9
+37: fraction: -88/18
+38: fraction: -63/13
+39: fraction: -33/7
+40: fraction: -37/8
+41: fraction: -46/10
+42: fraction: -58/13
+43: fraction: -94/22
+44: fraction: -64/15
+45: fraction: -77/19
+46: fraction: -52/13
+47: fraction: -51/13
+48: fraction: -38/10
+49: fraction: -64/17
+50: fraction: -51/14
+51: fraction: -40/11
+52: fraction: -72/20
+53: fraction: -82/23
+54: fraction: -56/16
+55: fraction: -38/11
+56: fraction: -71/21
+57: fraction: -79/24
+58: fraction: -65/20
+59: fraction: -74/23
+60: fraction: -73/23
+61: fraction: -61/20
+62: fraction: -73/25
+63: fraction: -87/30
+64: fraction: -81/28
+65: fraction: -75/26
+66: fraction: -69/24
+67: fraction: -74/26
+68: fraction: -95/34
+69: fraction: -39/14
+70: fraction: -83/30
+71: fraction: -97/36
+72: fraction: -67/25
+73: fraction: -96/38
+74: fraction: -65/26
+75: fraction: -5/2
+76: fraction: -87/35
+77: fraction: -76/31
+78: fraction: -100/41
+79: fraction: -98/41
+80: fraction: -71/30
+81: fraction: -77/33
+82: fraction: -74/32
+83: fraction: -53/24
+84: fraction: -48/22
+85: fraction: -52/24
+86: fraction: -45/21
+87: fraction: -88/42
+88: fraction: -71/34
+89: fraction: -73/35
+90: fraction: -73/35
+91: fraction: -49/24
+92: fraction: -69/34
+93: fraction: -97/50
+94: fraction: -95/50
+95: fraction: -76/40
+96: fraction: -93/49
+97: fraction: -98/52
+98: fraction: -92/50
+99: fraction: -57/31
+100: fraction: -89/49
+101: fraction: -92/53
+102: fraction: -97/56
+103: fraction: -93/54
+104: fraction: -46/27
+105: fraction: -51/30
+106: fraction: -93/55
+107: fraction: -5/3
+108: fraction: -100/60
+109: fraction: -70/42
+110: fraction: -100/60
+111: fraction: -97/59
+112: fraction: -44/27
+113: fraction: -47/29
+114: fraction: -42/26
+115: fraction: -85/53
+116: fraction: -70/44
+117: fraction: -54/34
+118: fraction: -97/62
+119: fraction: -72/47
+120: fraction: -98/65
+121: fraction: -52/35
+122: fraction: -71/48
+123: fraction: -62/42
+124: fraction: -25/17
+125: fraction: -50/34
+126: fraction: -83/58
+127: fraction: -81/57
+128: fraction: -71/50
+129: fraction: -45/32
+130: fraction: -66/47
+131: fraction: -50/36
+132: fraction: -97/70
+133: fraction: -57/42
+134: fraction: -75/56
+135: fraction: -76/57
+136: fraction: -29/22
+137: fraction: -75/58
+138: fraction: -51/40
+139: fraction: -67/54
+140: fraction: -76/62
+141: fraction: -100/82
+142: fraction: -47/39
+143: fraction: -88/74
+144: fraction: -90/77
+145: fraction: -57/49
+146: fraction: -93/80
+147: fraction: -76/66
+148: fraction: -85/74
+149: fraction: -65/57
+150: fraction: -9/8
+151: fraction: -46/41
+152: fraction: -97/87
+153: fraction: -50/45
+154: fraction: -89/81
+155: fraction: -35/32
+156: fraction: -87/80
+157: fraction: -47/44
+158: fraction: -51/48
+159: fraction: -72/68
+160: fraction: -73/69
+161: fraction: -97/92
+162: fraction: -82/78
+163: fraction: -81/78
+164: fraction: -83/80
+165: fraction: -92/89
+166: fraction: -87/85
+167: fraction: -87/86
+168: fraction: -73/73
+169: fraction: -75/75
+170: fraction: -80/81
+171: fraction: -90/93
+172: fraction: -45/47
+173: fraction: -86/91
+174: fraction: -67/71
+175: fraction: -24/26
+176: fraction: -23/25
+177: fraction: -89/97
+178: fraction: -10/11
+179: fraction: -69/76
+180: fraction: -55/61
+181: fraction: -43/48
+182: fraction: -82/93
+183: fraction: -86/98
+184: fraction: -81/94
+185: fraction: -78/93
+186: fraction: -83/100
+187: fraction: -33/40
+188: fraction: -65/79
+189: fraction: -32/40
+190: fraction: -40/50
+191: fraction: -51/64
+192: fraction: -15/19
+193: fraction: -52/66
+194: fraction: -70/89
+195: fraction: -47/60
+196: fraction: -65/83
+197: fraction: -60/77
+198: fraction: -74/95
+199: fraction: -66/86
+200: fraction: -75/98
+201: fraction: -16/21
+202: fraction: -28/37
+203: fraction: -40/53
+204: fraction: -60/80
+205: fraction: -68/92
+206: fraction: -48/65
+207: fraction: -29/40
+208: fraction: -44/61
+209: fraction: -33/46
+210: fraction: -45/63
+211: fraction: -52/73
+212: fraction: -49/69
+213: fraction: -66/94
+214: fraction: -70/100
+215: fraction: -30/43
+216: fraction: -31/45
+217: fraction: -47/69
+218: fraction: -54/80
+219: fraction: -62/92
+220: fraction: -2/3
+221: fraction: -53/80
+222: fraction: -64/97
+223: fraction: -18/28
+224: fraction: -52/82
+225: fraction: -38/61
+226: fraction: -52/86
+227: fraction: -53/88
+228: fraction: -60/100
+229: fraction: -52/87
+230: fraction: -33/56
+231: fraction: -50/86
+232: fraction: -50/87
+233: fraction: -56/98
+234: fraction: -32/56
+235: fraction: -4/7
+236: fraction: -12/21
+237: fraction: -13/23
+238: fraction: -43/78
+239: fraction: -55/100
+240: fraction: -6/11
+241: fraction: -44/81
+242: fraction: -27/50
+243: fraction: -14/26
+244: fraction: -39/73
+245: fraction: -34/64
+246: fraction: -40/77
+247: fraction: -50/97
+248: fraction: -36/70
+249: fraction: -16/32
+250: fraction: -44/88
+251: fraction: -15/30
+252: fraction: -47/96
+253: fraction: -47/98
+254: fraction: -9/19
+255: fraction: -7/15
+256: fraction: -21/45
+257: fraction: -41/88
+258: fraction: -46/100
+259: fraction: -35/77
+260: fraction: -18/40
+261: fraction: -39/87
+262: fraction: -41/92
+263: fraction: -28/63
+264: fraction: -15/34
+265: fraction: -30/68
+266: fraction: -7/16
+267: fraction: -31/71
+268: fraction: -42/98
+269: fraction: -11/27
+270: fraction: -33/81
+271: fraction: -38/96
+272: fraction: -28/72
+273: fraction: -8/21
+274: fraction: -23/61
+275: fraction: -15/40
+276: fraction: -36/98
+277: fraction: -22/66
+278: fraction: -28/87
+279: fraction: -29/98
+280: fraction: -13/45
+281: fraction: -21/73
+282: fraction: -23/83
+283: fraction: -13/49
+284: fraction: -22/83
+285: fraction: -13/51
+286: fraction: -14/55
+287: fraction: -16/63
+288: fraction: -18/74
+289: fraction: -13/54
+290: fraction: -23/97
+291: fraction: -11/48
+292: fraction: -13/61
+293: fraction: -5/24
+294: fraction: -4/20
+295: fraction: -9/45
+296: fraction: -18/90
+297: fraction: -19/99
+298: fraction: -16/92
+299: fraction: -10/58
+300: fraction: -8/47
+301: fraction: -15/90
+302: fraction: -15/91
+303: fraction: -7/47
+304: fraction: -10/68
+305: fraction: -4/31
+306: fraction: -4/31
+307: fraction: -10/87
+308: fraction: -8/71
+309: fraction: -9/90
+310: fraction: -7/88
+311: fraction: -7/90
+312: fraction: -4/54
+313: fraction: -5/71
+314: fraction: -5/74
+315: fraction: -5/76
+316: fraction: -3/66
+317: fraction: -2/49
+318: fraction: -1/27
+319: fraction: -1/30
+320: fraction: -2/77
+321: fraction: -2/82
+322: fraction: -2/98
+323: fraction: -1/56
+324: fraction: -1/80
+325: complex number: (-2.080149, 2.102536)
+326: complex number: (-2.473810, -4.962365)
+327: polar: w=2.155730; coords=(-2, -9)
+328: polar: w=5.732433; coords=(-1, -10)
+329: complex number: (4.484413, -8.995448)
+330: complex number: (-10.422095, 0.234253)
+331: complex number: (-0.744559, 11.023865)
+332: complex number: (-5.236835, -9.904513)
+333: complex number: (-11.360294, 3.765484)
+334: polar: w=4.135593; coords=(-6, -11)
+335: complex number: (12.370613, 5.188844)
+336: polar: w=6.673911; coords=(-14, -1)
+337: polar: w=5.702166; coords=(-14, -6)
+338: polar: w=1.152907; coords=(-8, -14)
+339: complex number: (-0.223592, 16.852420)
+340: complex number: (-12.484654, -11.757190)
+341: complex number: (-16.039560, 6.185780)
+342: complex number: (-13.738406, -11.699771)
+343: complex number: (5.824500, 17.455570)
+344: complex number: (16.860014, -7.917423)
+345: complex number: (-2.630615, -18.886113)
+346: polar: w=8.144823; coords=(-3, -19)
+347: polar: w=5.088314; coords=(-8, -18)
+348: polar: w=8.648395; coords=(-15, -13)
+349: complex number: (-20.137934, 4.160334)
+350: polar: w=2.394910; coords=(-20, -5)
+351: complex number: (-20.048154, 5.273253)
+352: complex number: (17.163515, -13.314723)
+353: polar: w=5.818307; coords=(-21, -6)
+354: polar: w=8.255464; coords=(-7, -21)
+355: complex number: (11.184201, 21.206443)
+356: polar: w=0.961009; coords=(-17, -17)
+357: complex number: (17.680798, -16.307764)
+358: polar: w=5.254884; coords=(-22, -10)
+359: polar: w=0.916247; coords=(-7, -24)
+360: polar: w=4.288766; coords=(-23, -10)
+361: complex number: (-20.501756, -14.846902)
+362: polar: w=8.289158; coords=(-4, -25)
+363: polar: w=6.035679; coords=(-7, -25)
+364: complex number: (-0.952075, -25.982257)
+365: complex number: (-26.749600, 1.158324)
+366: complex number: (26.701050, -3.075058)
+367: polar: w=3.340716; coords=(-18, -20)
+368: complex number: (-25.764338, -7.982024)
+369: polar: w=2.807544; coords=(-27, -1)
+370: polar: w=7.461931; coords=(-1, -27)
+371: complex number: (-27.281011, -1.113036)
+372: polar: w=9.375500; coords=(-5, -27)
+373: polar: w=1.183611; coords=(-18, -21)
+374: polar: w=0.077928; coords=(-27, -6)
+375: complex number: (18.848069, -21.129130)
+376: complex number: (-19.339344, -20.966797)
+377: polar: w=7.936927; coords=(-29, -1)
+378: polar: w=3.555242; coords=(-26, -14)
+379: polar: w=3.155151; coords=(-16, -25)
+380: polar: w=4.078779; coords=(-22, -21)
+381: polar: w=2.284586; coords=(-12, -28)
+382: complex number: (28.715491, -10.514219)
+383: polar: w=7.933400; coords=(-28, -13)
+384: polar: w=6.726729; coords=(-2, -31)
+385: polar: w=0.597171; coords=(-19, -25)
+386: polar: w=8.842588; coords=(-6, -31)
+387: polar: w=4.504095; coords=(-7, -31)
+388: complex number: (-29.605758, 12.051200)
+389: polar: w=4.790935; coords=(-32, -2)
+390: complex number: (-15.128973, 29.184177)
+391: complex number: (21.590085, -25.099128)
+392: polar: w=3.110645; coords=(-24, -23)
+393: polar: w=0.078161; coords=(-20, -27)
+394: complex number: (23.760598, 23.759996)
+395: complex number: (-8.760809, -32.550036)
+396: polar: w=2.487052; coords=(-29, -18)
+397: complex number: (34.764424, 3.331032)
+398: complex number: (33.961822, -10.848685)
+399: complex number: (29.525477, -20.265018)
+400: complex number: (-28.126119, -22.383953)
+401: polar: w=4.206023; coords=(-9, -35)
+402: polar: w=0.583756; coords=(-33, -15)
+403: polar: w=3.480243; coords=(-36, -7)
+404: polar: w=0.478923; coords=(-35, -11)
+405: polar: w=4.392100; coords=(-11, -35)
+406: polar: w=1.699683; coords=(-26, -26)
+407: polar: w=7.038754; coords=(-27, -25)
+408: polar: w=6.646814; coords=(-31, -20)
+409: polar: w=8.800310; coords=(-17, -33)
+410: polar: w=3.545085; coords=(-13, -35)
+411: polar: w=8.759533; coords=(-21, -31)
+412: polar: w=7.796536; coords=(-14, -35)
+413: complex number: (-10.910449, -36.536073)
+414: complex number: (-37.081462, -10.004585)
+415: polar: w=8.062517; coords=(-34, -18)
+416: complex number: (-37.532079, -8.675143)
+417: polar: w=5.296045; coords=(-36, -14)
+418: complex number: (35.423504, 15.605076)
+419: polar: w=1.165641; coords=(-38, -9)
+420: complex number: (-37.381427, -11.857089)
+421: polar: w=7.051392; coords=(-15, -37)
+422: polar: w=3.866406; coords=(-21, -34)
+423: polar: w=5.641351; coords=(-33, -23)
+424: polar: w=9.457363; coords=(-18, -36)
+425: polar: w=0.200968; coords=(-40, -5)
+426: polar: w=6.557651; coords=(-31, -26)
+427: polar: w=2.539945; coords=(-21, -35)
+428: complex number: (36.909242, -17.560669)
+429: polar: w=8.273111; coords=(-41, -3)
+430: polar: w=5.314371; coords=(-26, -32)
+431: complex number: (-40.716337, -7.085851)
+432: polar: w=4.997766; coords=(-40, -11)
+433: polar: w=2.051496; coords=(-17, -38)
+434: polar: w=3.797312; coords=(-27, -32)
+435: polar: w=0.037751; coords=(-2, -42)
+436: polar: w=4.057823; coords=(-5, -42)
+437: complex number: (20.412152, 37.089567)
+438: polar: w=9.378926; coords=(-30, -30)
+439: polar: w=8.970962; coords=(-31, -29)
+440: complex number: (-40.818675, 12.821901)
+441: complex number: (-19.245679, 38.620894)
+442: polar: w=8.544527; coords=(-43, -5)
+443: polar: w=7.626365; coords=(-38, -21)
+444: polar: w=0.586015; coords=(-23, -37)
+445: polar: w=7.146626; coords=(-33, -29)
+446: polar: w=7.618701; coords=(-1, -44)
+447: polar: w=5.902849; coords=(-34, -28)
+448: complex number: (-42.309733, 12.591617)
+449: polar: w=3.046436; coords=(-26, -36)
+450: polar: w=8.369002; coords=(-4, -45)
+451: polar: w=4.178176; coords=(-15, -43)
+452: complex number: (-11.181245, 44.205410)
+453: complex number: (43.346697, 14.964553)
+454: polar: w=6.177950; coords=(-9, -45)
+455: complex number: (-0.694172, 45.997062)
+456: polar: w=1.703881; coords=(-6, -46)
+457: polar: w=1.712019; coords=(-44, -16)
+458: polar: w=0.502927; coords=(-28, -38)
+459: polar: w=5.157289; coords=(-36, -31)
+460: polar: w=6.658509; coords=(-18, -44)
+461: complex number: (-23.769291, 41.903045)
+462: polar: w=3.512174; coords=(-48, -5)
+463: polar: w=1.585498; coords=(-48, -7)
+464: polar: w=5.189545; coords=(-19, -45)
+465: polar: w=4.202908; coords=(-44, -22)
+466: polar: w=3.505579; coords=(-49, -5)
+467: complex number: (30.273102, -38.856374)
+468: complex number: (-47.641003, 13.175761)
+469: complex number: (-49.440568, 1.088653)
+470: polar: w=0.584680; coords=(-48, -12)
+471: complex number: (-44.452489, -23.235449)
+472: complex number: (-7.239335, 49.691243)
+473: complex number: (-34.465791, 36.544138)
+474: polar: w=9.724156; coords=(-50, -7)
+475: polar: w=0.050496; coords=(-48, -16)
+476: complex number: (1.731603, 50.607427)
+477: polar: w=2.632468; coords=(-9, -50)
+478: polar: w=6.321723; coords=(-35, -37)
+479: polar: w=2.712857; coords=(-24, -45)
+480: complex number: (35.757931, 36.518881)
+481: polar: w=5.427554; coords=(-5, -51)
+482: complex number: (26.444580, -44.265522)
+483: complex number: (2.422710, -52.089274)
+484: polar: w=3.049333; coords=(-13, -51)
+485: polar: w=0.853943; coords=(-51, -13)
+486: polar: w=7.439889; coords=(-13, -51)
+487: complex number: (-32.510697, -41.702281)
+488: polar: w=4.266206; coords=(-38, -37)
+489: polar: w=2.158221; coords=(-38, -37)
+490: polar: w=8.527716; coords=(-2, -53)
+491: complex number: (44.671358, 28.715954)
+492: polar: w=1.690564; coords=(-13, -52)
+493: complex number: (-44.271718, 30.302569)
+494: complex number: (-53.640854, -5.124002)
+495: polar: w=0.363702; coords=(-35, -41)
+496: polar: w=0.276519; coords=(-15, -52)
+497: complex number: (51.989730, 15.047847)
+498: polar: w=9.972230; coords=(-5, -54)
+499: polar: w=2.635904; coords=(-21, -50)
+500: polar: w=6.472849; coords=(-53, -12)
+501: polar: w=2.491230; coords=(-47, -28)
+502: complex number: (-47.718286, 27.533253)
+503: complex number: (6.584608, -54.865655)
+504: complex number: (29.946955, -46.835759)
+505: complex number: (-50.556437, 23.979658)
+506: complex number: (56.148131, -4.937473)
+507: polar: w=2.187918; coords=(-51, -24)
+508: polar: w=7.562376; coords=(-7, -57)
+509: polar: w=6.819445; coords=(-7, -57)
+510: complex number: (57.098742, 7.028647)
+511: polar: w=7.665757; coords=(-23, -53)
+512: complex number: (-41.649345, 40.117273)
+513: polar: w=9.301715; coords=(-21, -54)
+514: complex number: (49.016509, -31.447537)
+515: polar: w=3.597376; coords=(-6, -58)
+516: polar: w=1.852781; coords=(-58, -7)
+517: complex number: (-36.786775, -45.542227)
+518: complex number: (-42.293689, -41.250460)
+519: complex number: (44.946596, 38.491415)
+520: complex number: (-43.986866, 39.665687)
+521: complex number: (-23.162629, -54.695509)
+522: complex number: (8.125856, -58.914566)
+523: complex number: (-48.754695, -34.145419)
+524: polar: w=1.841407; coords=(-45, -39)
+525: polar: w=4.872562; coords=(-59, -9)
+526: complex number: (-23.892763, 55.449276)
+527: complex number: (-19.995550, 57.159136)
+528: complex number: (19.672064, 57.290623)
+529: complex number: (54.737938, -26.135618)
+530: polar: w=2.015130; coords=(-9, -60)
+531: polar: w=4.433154; coords=(-55, -26)
+532: polar: w=8.920283; coords=(-46, -40)
+533: polar: w=8.170303; coords=(-2, -61)
+534: complex number: (-59.873748, -12.218085)
+535: polar: w=9.991537; coords=(-58, -20)
+536: polar: w=7.857079; coords=(-56, -27)
+537: polar: w=3.204204; coords=(-43, -45)
+538: complex number: (-37.574891, -49.625479)
+539: complex number: (30.660541, 54.220826)
+540: polar: w=7.418497; coords=(-51, -36)
+541: polar: w=0.624704; coords=(-36, -51)
+542: complex number: (-58.336183, 22.676891)
+543: complex number: (-55.875072, -29.363855)
+544: polar: w=5.959318; coords=(-60, -20)
+545: polar: w=9.900358; coords=(-14, -62)
+546: complex number: (-17.323178, -61.293302)
+547: complex number: (53.858540, -34.116020)
+548: complex number: (-44.659905, -45.624733)
+549: polar: w=2.391369; coords=(-31, -56)
+550: polar: w=3.836825; coords=(-2, -64)
+551: complex number: (-20.053318, -60.850419)
+552: polar: w=9.163564; coords=(-51, -39)
+553: polar: w=5.375601; coords=(-35, -54)
+554: polar: w=9.000752; coords=(-35, -54)
+555: polar: w=3.095417; coords=(-26, -59)
+556: polar: w=0.296759; coords=(-14, -63)
+557: complex number: (63.490606, 11.607965)
+558: complex number: (-34.391085, -55.019592)
+559: polar: w=3.130388; coords=(-65, -2)
+560: polar: w=8.692418; coords=(-32, -57)
+561: complex number: (30.597525, 57.888089)
+562: polar: w=6.765224; coords=(-65, -9)
+563: complex number: (-36.882160, 54.683113)
+564: complex number: (24.211793, -61.691035)
+565: complex number: (-20.910421, 62.889386)
+566: complex number: (32.125678, 58.076150)
+567: complex number: (-43.859200, 49.904164)
+568: polar: w=0.164636; coords=(-65, -14)
+569: polar: w=9.005190; coords=(-36, -56)
+570: complex number: (-47.098465, -47.568422)
+571: polar: w=6.830645; coords=(-67, -4)
+572: complex number: (-62.689119, -24.024559)
+573: polar: w=4.733300; coords=(-67, -7)
+574: complex number: (49.166487, 46.172909)
+575: complex number: (35.916441, 57.119164)
+576: polar: w=0.005344; coords=(-37, -57)
+577: complex number: (-17.909005, -65.707202)
+578: complex number: (-15.314530, -66.545602)
+579: complex number: (-65.156229, -20.959076)
+580: polar: w=1.674487; coords=(-27, -63)
+581: polar: w=9.364339; coords=(-10, -68)
+582: polar: w=2.493238; coords=(-40, -56)
+583: polar: w=6.180126; coords=(-69, -4)
+584: polar: w=7.428681; coords=(-65, -24)
+585: complex number: (67.097962, 17.312793)
+586: polar: w=8.047569; coords=(-63, -29)
+587: polar: w=7.885534; coords=(-56, -41)
+588: polar: w=2.979826; coords=(-22, -66)
+589: polar: w=3.887351; coords=(-28, -64)
+590: polar: w=9.120446; coords=(-5, -70)
+591: complex number: (-64.266572, 28.232590)
+592: complex number: (-69.518238, 9.787523)
+593: complex number: (56.138467, 42.531398)
+594: polar: w=4.522253; coords=(-67, -22)
+595: polar: w=7.359480; coords=(-42, -57)
+596: complex number: (66.678164, 24.238925)
+597: polar: w=6.599559; coords=(-45, -55)
+598: complex number: (39.865834, 58.949599)
+599: polar: w=3.149584; coords=(-29, -65)
+600: complex number: (5.107802, 71.122540)
+601: polar: w=0.743619; coords=(-27, -66)
+602: polar: w=5.167257; coords=(-30, -65)
+603: complex number: (9.164836, -71.038894)
+604: complex number: (-42.907842, 57.390134)
+605: complex number: (67.221080, -25.363992)
+606: complex number: (69.419880, -18.720001)
+607: complex number: (29.573232, -65.656433)
+608: complex number: (-21.297365, 69.016878)
+609: polar: w=7.427212; coords=(-54, -48)
+610: complex number: (-59.851375, 40.527680)
+611: complex number: (-66.856128, 28.257184)
+612: complex number: (70.191583, 18.737227)
+613: complex number: (44.898265, 57.193696)
+614: complex number: (72.576232, 4.490767)
+615: complex number: (-13.140763, 71.554069)
+616: complex number: (37.429896, 62.388684)
+617: polar: w=1.438054; coords=(-72, -11)
+618: polar: w=8.324096; coords=(-50, -53)
+619: complex number: (36.111890, 63.771565)
+620: complex number: (-50.395844, 53.279601)
+621: complex number: (-67.520092, 28.945340)
+622: polar: w=9.466000; coords=(-41, -61)
+623: polar: w=2.713840; coords=(-53, -51)
+624: polar: w=0.569247; coords=(-51, -53)
+625: polar: w=3.264977; coords=(-44, -59)
+626: complex number: (-45.697788, 57.789655)
+627: complex number: (71.803698, -16.825449)
+628: polar: w=4.465374; coords=(-72, -16)
+629: polar: w=3.270869; coords=(-65, -35)
+630: polar: w=3.637935; coords=(-52, -53)
+631: polar: w=0.446372; coords=(-51, -54)
+632: complex number: (-62.825495, 39.676993)
+633: complex number: (1.471876, -74.491290)
+634: complex number: (-69.633899, -26.768495)
+635: complex number: (62.985246, -40.615594)
+636: polar: w=3.887461; coords=(-72, -21)
+637: polar: w=2.654110; coords=(-51, -55)
+638: polar: w=1.024997; coords=(-73, -18)
+639: polar: w=9.861695; coords=(-65, -38)
+640: polar: w=9.189684; coords=(-14, -74)
+641: complex number: (-28.061329, -69.914146)
+642: complex number: (-30.949640, 68.697129)
+643: polar: w=9.778350; coords=(-70, -28)
+644: complex number: (24.642951, -71.619705)
+645: complex number: (74.806557, 12.288825)
+646: polar: w=0.414783; coords=(-57, -50)
+647: complex number: (70.803213, -27.446540)
+648: polar: w=6.473812; coords=(-1, -76)
+649: polar: w=9.478719; coords=(-76, -2)
+650: polar: w=6.148887; coords=(-75, -14)
+651: complex number: (-58.931537, 48.549971)
+652: complex number: (59.121956, 48.354230)
+653: polar: w=8.382609; coords=(-71, -29)
+654: polar: w=9.957132; coords=(-63, -44)
+655: polar: w=9.886119; coords=(-77, -2)
+656: complex number: (-22.703261, -73.806152)
+657: polar: w=1.826146; coords=(-67, -39)
+658: polar: w=1.740838; coords=(-36, -69)
+659: complex number: (73.098689, 26.789263)
+660: complex number: (57.465878, -52.704475)
+661: polar: w=1.736931; coords=(-1, -78)
+662: complex number: (-71.678423, -30.797683)
+663: complex number: (47.881014, -61.785170)
+664: polar: w=2.996187; coords=(-73, -29)
+665: complex number: (43.472767, -65.612477)
+666: polar: w=2.110429; coords=(-43, -66)
+667: polar: w=5.545966; coords=(-76, -21)
+668: polar: w=7.564071; coords=(-50, -61)
+669: complex number: (-75.706931, -22.847135)
+670: polar: w=3.602372; coords=(-56, -56)
+671: polar: w=9.233623; coords=(-7, -79)
+672: complex number: (78.817426, -9.353496)
+673: polar: w=9.420810; coords=(-65, -46)
+674: polar: w=7.576772; coords=(-79, -10)
+675: complex number: (-78.937458, -10.609150)
+676: complex number: (-66.778372, -43.540686)
+677: polar: w=1.306318; coords=(-44, -67)
+678: complex number: (-66.239731, -45.172423)
+679: complex number: (33.156032, 73.146222)
+680: complex number: (-20.254743, 77.716160)
+681: complex number: (69.593535, 41.131551)
+682: complex number: (-60.509870, -53.669253)
+683: complex number: (77.572934, -23.149878)
+684: complex number: (49.335481, -64.218342)
+685: complex number: (35.013939, 73.051386)
+686: complex number: (-1.312439, 81.007918)
+687: complex number: (63.425326, -51.087784)
+688: polar: w=3.301129; coords=(-80, -16)
+689: polar: w=0.245472; coords=(-81, -11)
+690: polar: w=2.821385; coords=(-68, -46)
+691: complex number: (-64.633433, 50.823344)
+692: polar: w=6.304953; coords=(-52, -64)
+693: polar: w=1.059666; coords=(-80, -20)
+694: complex number: (-82.196990, -8.912707)
+695: polar: w=8.394568; coords=(-44, -70)
+696: complex number: (-17.197204, 80.915441)
+697: complex number: (-21.075489, 80.256926)
+698: polar: w=1.695106; coords=(-66, -51)
+699: polar: w=9.845751; coords=(-59, -59)
+700: polar: w=7.884489; coords=(-83, -9)
+701: complex number: (8.346940, -83.080671)
+702: polar: w=7.060899; coords=(-10, -83)
+703: complex number: (-59.438924, -58.792063)
+704: complex number: (73.837979, -40.826528)
+705: complex number: (-25.551356, 80.455144)
+706: polar: w=9.192299; coords=(-71, -46)
+707: polar: w=0.808747; coords=(-70, -48)
+708: complex number: (14.137141, -84.274895)
+709: polar: w=3.333236; coords=(-85, -10)
+710: polar: w=4.012774; coords=(-84, -17)
+711: polar: w=4.395755; coords=(-22, -83)
+712: complex number: (66.561147, 54.495690)
+713: complex number: (42.445357, -75.140713)
+714: complex number: (-53.901879, -67.483063)
+715: polar: w=3.306736; coords=(-58, -64)
+716: complex number: (-59.016370, -63.103016)
+717: complex number: (-2.585003, 86.365513)
+718: complex number: (86.452836, 0.333716)
+719: polar: w=8.320330; coords=(-21, -84)
+720: complex number: (48.572752, -71.757653)
+721: complex number: (34.138083, 79.768626)
+722: polar: w=9.138754; coords=(-59, -64)
+723: polar: w=2.259434; coords=(-3, -87)
+724: polar: w=2.860998; coords=(-87, -3)
+725: polar: w=2.107805; coords=(-49, -72)
+726: polar: w=2.969410; coords=(-58, -65)
+727: complex number: (86.135908, 13.701916)
+728: complex number: (-85.858726, -16.797619)
+729: complex number: (-65.240417, 58.951885)
+730: complex number: (-54.800896, 69.170883)
+731: complex number: (83.866778, -27.791814)
+732: polar: w=6.046493; coords=(-64, -61)
+733: complex number: (-64.661164, -60.465597)
+734: polar: w=2.806502; coords=(-78, -42)
+735: polar: w=5.237051; coords=(-83, -31)
+736: polar: w=7.035643; coords=(-25, -85)
+737: polar: w=3.006177; coords=(-11, -88)
+738: polar: w=3.021140; coords=(-77, -44)
+739: polar: w=2.208964; coords=(-12, -88)
+740: polar: w=1.994090; coords=(-52, -72)
+741: polar: w=4.641188; coords=(-84, -29)
+742: polar: w=3.339289; coords=(-89, -6)
+743: polar: w=6.930704; coords=(-85, -28)
+744: complex number: (-45.758795, -77.306292)
+745: polar: w=0.092119; coords=(-74, -51)
+746: polar: w=6.990783; coords=(-48, -76)
+747: polar: w=5.303284; coords=(-89, -13)
+748: polar: w=8.262529; coords=(-72, -54)
+749: polar: w=8.126257; coords=(-2, -90)
+750: complex number: (-41.833750, -79.802692)
+751: polar: w=9.395376; coords=(-88, -21)
+752: polar: w=8.129209; coords=(-64, -64)
+753: complex number: (73.379724, 53.248494)
+754: complex number: (-84.482674, -32.916128)
+755: complex number: (-43.116424, 79.805497)
+756: polar: w=6.156328; coords=(-81, -41)
+757: complex number: (38.617112, 82.267327)
+758: complex number: (47.183157, -77.712841)
+759: complex number: (-89.791773, -14.826628)
+760: complex number: (-83.847679, 35.649357)
+761: polar: w=3.099857; coords=(-46, -79)
+762: complex number: (38.055809, -83.145959)
+763: polar: w=1.745547; coords=(-91, -11)
+764: polar: w=9.201232; coords=(-58, -71)
+765: polar: w=6.977456; coords=(-71, -58)
+766: polar: w=0.803273; coords=(-71, -58)
+767: complex number: (21.681449, -89.101263)
+768: complex number: (-78.675765, -47.331422)
+769: complex number: (54.687729, -73.881759)
+770: complex number: (33.496783, -85.929490)
+771: complex number: (-85.006565, 35.917688)
+772: polar: w=8.201377; coords=(-89, -25)
+773: complex number: (76.153722, -52.559148)
+774: polar: w=4.026218; coords=(-91, -17)
+775: polar: w=5.080167; coords=(-39, -84)
+776: complex number: (-37.396958, -84.900720)
+777: complex number: (-83.156204, -41.436359)
+778: complex number: (35.997961, -85.652273)
+779: complex number: (-83.954989, 39.975984)
+780: complex number: (88.510571, 29.824824)
+781: polar: w=1.488099; coords=(-87, -34)
+782: complex number: (-71.012274, -60.788394)
+783: polar: w=2.250270; coords=(-56, -75)
+784: polar: w=7.114758; coords=(-86, -37)
+785: complex number: (-31.759893, -88.101248)
+786: polar: w=5.679014; coords=(-87, -35)
+787: complex number: (80.383968, 48.746362)
+788: complex number: (-85.033533, 40.359452)
+789: polar: w=7.505661; coords=(-20, -92)
+790: complex number: (94.006030, -6.000021)
+791: complex number: (91.404536, -22.966385)
+792: polar: w=3.431600; coords=(-94, -8)
+793: polar: w=2.717257; coords=(-18, -93)
+794: polar: w=7.143843; coords=(-68, -66)
+795: complex number: (-53.092506, -78.642806)
+796: polar: w=3.929661; coords=(-94, -13)
+797: polar: w=9.426091; coords=(-1, -95)
+798: polar: w=9.230100; coords=(-48, -82)
+799: complex number: (-77.805133, -54.955783)
+800: complex number: (-87.572965, 37.526334)
+801: polar: w=0.098844; coords=(-16, -94)
+802: complex number: (-35.862287, -88.422153)
+803: polar: w=0.979300; coords=(-68, -67)
+804: polar: w=5.951277; coords=(-67, -68)
+805: polar: w=9.431743; coords=(-94, -17)
+806: polar: w=0.022589; coords=(-65, -70)
+807: complex number: (-93.902922, -17.879069)
+808: polar: w=9.868445; coords=(-11, -95)
+809: polar: w=1.684197; coords=(-42, -86)
+810: complex number: (-93.390756, 20.949297)
+811: complex number: (3.116032, 95.891672)
+812: complex number: (-84.021748, 46.489716)
+813: polar: w=9.409264; coords=(-11, -96)
+814: complex number: (-77.973029, -57.297079)
+815: complex number: (-40.560072, 87.854399)
+816: polar: w=1.818995; coords=(-91, -33)
+817: complex number: (19.336639, -94.981853)
+818: complex number: (-96.946376, -2.084675)
+819: complex number: (59.813121, 76.371138)
+820: complex number: (91.030931, -33.904303)
+821: polar: w=2.529784; coords=(-91, -34)
+822: complex number: (-49.905604, 83.398480)
+823: polar: w=3.606598; coords=(-16, -96)
+824: complex number: (-50.471442, -83.553776)
+825: polar: w=9.654997; coords=(-48, -85)
+826: complex number: (96.745842, 13.666170)
+827: polar: w=7.606895; coords=(-13, -97)
+828: polar: w=7.375949; coords=(-95, -24)
+829: complex number: (-73.159264, 65.226440)
+830: polar: w=4.291456; coords=(-82, -54)
+831: complex number: (95.318981, 23.704738)
+832: complex number: (59.123357, 78.446181)
+833: complex number: (31.707652, 93.174906)
+834: complex number: (82.841850, -53.170894)
+835: polar: w=5.672900; coords=(-40, -90)
+836: complex number: (73.179515, 66.118718)
+837: complex number: (31.005757, -93.727656)
+838: complex number: (-87.677761, -45.482110)
+839: complex number: (55.001691, -82.250566)
+840: polar: w=3.561934; coords=(-24, -96)
+841: complex number: (-98.229089, 12.120174)
+842: polar: w=7.910876; coords=(-97, -20)
+843: complex number: (-78.283895, -60.743749)
+844: complex number: (-39.216297, -91.195053)
+845: polar: w=1.510700; coords=(-46, -88)
+846: complex number: (-91.265527, 39.179176)
+847: complex number: (-95.967017, -26.655668)
+848: complex number: (50.253236, -86.090138)
+849: polar: w=6.991536; coords=(-89, -45)
+850: polar: w=9.887820; coords=(-99, -13)
+851: complex number: (96.531943, 25.705286)
+852: polar: w=6.773307; coords=(-92, -39)
+853: complex number: (10.579452, -99.542516)
+854: polar: w=8.699370; coords=(-70, -72)
+855: complex number: (-63.605334, 77.798563)
+856: complex number: (98.034253, -22.321383)
+857: complex number: (79.827750, 61.167833)
+858: polar: w=0.371534; coords=(-99, -18)
+859: complex number: (48.415123, -88.233985)
+860: polar: w=0.121888; coords=(-83, -57)
+861: polar: w=1.842007; coords=(-12, -100)
+862: polar: w=8.810649; coords=(-41, -92)
+863: polar: w=4.755791; coords=(-87, -51)
+864: complex number: (62.484234, -79.183152)
+865: complex number: (97.555039, 25.991677)
+866: complex number: (-65.807050, 76.570329)
+867: polar: w=2.183503; coords=(-14, -100)
+868: polar: w=1.607804; coords=(-46, -90)
+869: complex number: (-91.553174, -43.141444)
+870: complex number: (-30.655111, 96.479368)
+871: polar: w=0.878688; coords=(-85, -55)
+872: complex number: (56.617113, 83.949930)
+873: complex number: (-72.587095, 70.646365)
+874: polar: w=1.637370; coords=(-41, -93)
+875: polar: w=3.327086; coords=(-39, -94)
+876: complex number: (42.798765, -92.382949)
+877: complex number: (-97.186338, -31.508707)
+878: polar: w=1.018350; coords=(-96, -35)
+879: polar: w=7.700637; coords=(-61, -82)
+880: complex number: (79.529821, 64.390843)
+881: complex number: (-84.797736, 57.950511)
+882: polar: w=6.726517; coords=(-78, -67)
+883: polar: w=1.652733; coords=(-28, -99)
+884: complex number: (95.781599, -37.587831)
+885: complex number: (-78.521440, -66.572150)
+886: complex number: (92.882032, 45.838505)
+887: complex number: (-88.587955, 54.217616)
+888: complex number: (-90.620293, -50.755542)
+889: complex number: (-32.740808, 98.706239)
+890: polar: w=4.415583; coords=(-29, -100)
+891: complex number: (-38.506412, 96.788653)
+892: polar: w=7.834413; coords=(-93, -47)
+893: complex number: (91.397732, 50.262724)
+894: polar: w=8.629283; coords=(-33, -99)
+895: polar: w=7.885152; coords=(-68, -80)
+896: complex number: (87.254742, -58.452897)
+897: complex number: (53.497914, -90.527933)
+898: complex number: (66.518857, 81.568661)
+899: complex number: (-91.242770, 52.654028)
+900: polar: w=8.150399; coords=(-83, -65)
+901: complex number: (67.903041, 80.883788)
+902: complex number: (-91.637193, 52.513964)
+903: polar: w=4.962502; coords=(-98, -40)
+904: complex number: (-70.201591, 79.373970)
+905: complex number: (85.427211, 62.931309)
+906: complex number: (85.894369, -62.653672)
+907: complex number: (94.824005, 48.747842)
+908: complex number: (-98.221756, 41.489443)
+909: complex number: (81.155800, 69.201243)
+910: complex number: (-80.049241, 70.509496)
+911: polar: w=5.464738; coords=(-99, -40)
+912: complex number: (50.264153, 94.209425)
+913: polar: w=3.631193; coords=(-91, -56)
+914: complex number: (77.282445, -74.390327)
+915: complex number: (-96.460383, 47.171357)
+916: polar: w=4.763102; coords=(-76, -76)
+917: polar: w=6.446416; coords=(-51, -95)
+918: complex number: (75.418158, -77.068785)
+919: polar: w=3.281039; coords=(-100, -41)
+920: complex number: (77.419835, -75.604785)
+921: complex number: (54.284143, -94.006504)
+922: complex number: (91.656965, 58.383865)
+923: polar: w=3.844039; coords=(-58, -92)
+924: complex number: (77.057867, -77.032989)
+925: complex number: (74.555001, -79.835399)
+926: polar: w=4.855630; coords=(-58, -93)
+927: polar: w=5.178403; coords=(-80, -75)
+928: complex number: (-87.409648, -66.832625)
+929: complex number: (92.526412, 59.688508)
+930: polar: w=9.751486; coords=(-61, -92)
+931: polar: w=4.399687; coords=(-89, -66)
+932: polar: w=9.128236; coords=(-79, -78)
+933: polar: w=5.993306; coords=(-56, -96)
+934: complex number: (-61.506619, -92.615912)
+935: polar: w=2.985968; coords=(-51, -99)
+936: polar: w=7.101585; coords=(-70, -87)
+937: complex number: (-94.202047, -59.977663)
+938: polar: w=2.549664; coords=(-65, -91)
+939: polar: w=9.960905; coords=(-98, -54)
+940: complex number: (75.235562, -83.184872)
+941: complex number: (-55.594377, -97.453439)
+942: polar: w=3.923297; coords=(-100, -51)
+943: polar: w=2.008264; coords=(-96, -59)
+944: complex number: (-70.571278, -88.382912)
+945: polar: w=1.754542; coords=(-81, -79)
+946: polar: w=4.096581; coords=(-70, -89)
+947: complex number: (58.366970, -97.379711)
+948: complex number: (78.188692, -82.632975)
+949: polar: w=7.650851; coords=(-56, -100)
+950: polar: w=7.442383; coords=(-66, -95)
+951: complex number: (68.509753, -93.335110)
+952: complex number: (-78.546293, -85.065165)
+953: complex number: (76.780377, -86.711787)
+954: complex number: (-75.720676, 87.797428)
+955: polar: w=9.712801; coords=(-79, -85)
+956: polar: w=8.494067; coords=(-89, -75)
+957: complex number: (89.532406, 74.919776)
+958: complex number: (88.039264, 77.155127)
+959: polar: w=4.101171; coords=(-91, -74)
+960: complex number: (-96.055190, -68.856326)
+961: polar: w=7.227518; coords=(-65, -99)
+962: complex number: (-81.128648, -86.730937)
+963: complex number: (-93.130106, -74.176396)
+964: polar: w=8.744943; coords=(-84, -86)
+965: complex number: (89.125620, -81.268121)
+966: complex number: (76.982664, -93.437614)
+967: polar: w=0.649443; coords=(-91, -80)
+968: complex number: (70.549941, 98.571611)
+969: polar: w=2.014756; coords=(-93, -78)
+970: complex number: (-92.502386, -79.153381)
+971: polar: w=6.330751; coords=(-96, -75)
+972: polar: w=4.065066; coords=(-97, -74)
+973: complex number: (-86.589874, 86.221845)
+974: complex number: (-80.497692, 92.590011)
+975: polar: w=1.227497; coords=(-85, -89)
+976: complex number: (-87.541212, -87.241215)
+977: polar: w=2.514482; coords=(-98, -76)
+978: complex number: (-79.249483, -95.848323)
+979: complex number: (81.086112, 94.835169)
+980: complex number: (96.434139, 79.794964)
+981: complex number: (-93.853036, 83.121645)
+982: polar: w=0.207306; coords=(-79, -98)
+983: polar: w=1.866729; coords=(-91, -87)
+984: complex number: (86.763558, -91.385724)
+985: complex number: (88.663832, 89.943984)
+986: polar: w=1.991232; coords=(-98, -81)
+987: complex number: (-89.849586, -90.299435)
+988: complex number: (85.842048, -95.259982)
+989: complex number: (-81.020141, -99.446320)
+990: polar: w=5.443974; coords=(-85, -98)
+991: polar: w=2.839154; coords=(-94, -90)
+992: complex number: (97.247890, 89.223158)
+993: complex number: (86.701131, -99.630328)
+994: complex number: (91.623089, -97.923221)
+995: polar: w=8.655860; coords=(-97, -95)
+996: complex number: (-96.384331, -97.359137)
+997: complex number: (96.080237, -99.056321)
+998: polar: w=8.444244; coords=(-100, -96)
+999: polar: w=6.974573; coords=(-100, -98)
