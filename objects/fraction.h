@@ -12,9 +12,8 @@ struct fraction {
     int denominator;
 };
 
-/* Ввод дроби из файла.
- *  Формат: <numerator> <denominator>\n
-*/
+// Ввод дроби из файла.
+// Формат: <numerator> <denominator>\n
  int In(fraction* frac, FILE* input_file);
 
 // Случайное заполнение дроби.

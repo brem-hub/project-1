@@ -14,9 +14,8 @@ struct complex {
     double imaginary;
 };
 
-/* Ввод комплексного числа из файла.
- *  Формат: <real> <imaginary>\n
-*/
+// Ввод комплексного числа из файла.
+// Формат: <real> <imaginary>\n
 int In(complex* c_n, FILE* input_file);
 
 // Случайное заполнение комплексного числа.

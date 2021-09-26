@@ -18,6 +18,9 @@ struct number {
     };
 };
 
+// Ввод числа из файла.
+// Формат: <type>\n
+//         <specific input>\n
 int In(number* num, FILE* input_file);
 
 void Out(const number* num, FILE* output_file);

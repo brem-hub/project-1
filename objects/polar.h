@@ -2,9 +2,7 @@
 #define PROJECT_POLAR_H
 
 #include "point.h"
-#ifndef PROJECT_UTILS_H
 #include "../utils/utils.h"
-#endif
 
 /*
  * Описание базовой структуры полярных чисел.

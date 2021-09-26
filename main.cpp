@@ -5,31 +5,31 @@
 #include "container/container.h"
 #include "objects/number.h"
 
-#define HELP_MESSAGE    "HSE UNIVERSITY, 2021-2022, Kulikov Bogdan, first project program.\n" \
-                        "Task: 11, Function: 10\n"                                            \
-                        "\n"                                                                  \
-                        "Usage: program [OPTIONS]...\n"                                       \
-                        "\n"                                                                  \
-                        "OPTIONS:\n"                                                          \
-                        " -i, --input\t\t Specify input file\n"                               \
-                        " -o, --output\t\t Specify output file\n"                             \
-                        "\t\t\t\t if file does not exist - program will create one\n"         \
-                        " -r, --random\t\t Generate random input. Range [1, 10000]\n"         \
-                        " --random-input \t\t Generate random input file.\n"                  \
-                        "\n"                                                                  \
-                        "\n"                                                                  \
-                        "INPUT SPECIFICATION:\n"                                              \
-                        "Input file starts with number of elements (int_32)\n"                \
-                        "Elements consist of fields:\n"                                       \
-                        "\t `element_type`: 0 - COMPLEX, 1 - FRACTION, 2 - POLAR\n"           \
-                        "\t `element_description`:\n"                                         \
-                        "\t\t COMPLEX: A pair of double numbers - real and imaginary parts.\n" \
-                        "\t\t\t  example: `10.1 12.0` -> complex: (real=10.1, imaginary=12.0)\n"\
-                        "\t\t FRACTION: A pair of int_32 numbers - numerator and denominator.\n"\
-                        "\t\t\t  example: `1 2` -> fraction: 1/2\n"                           \
-                        "\t\t POLAR: A Double number - angle and a pair of int_32 numbers - coordinates.\n"\
-                        "\t\t\t  example: `10.1 3 4` -> polar: (angle=10.1, coords=(x=3,y=4))\n"\
-                        "See example at /tests/example.txt"                                   \
+#define HELP_MESSAGE    "HSE UNIVERSITY, 2021-2022, Kulikov Bogdan, first project program.\n"               \
+                        "Task: 11, Function: 10\n"                                                          \
+                        "\n"                                                                                \
+                        "Usage: program [OPTIONS]...\n"                                                     \
+                        "\n"                                                                                \
+                        "OPTIONS:\n"                                                                        \
+                        " -i, --input\t\t Specify input file\n"                                             \
+                        " -o, --output\t\t Specify output file\n"                                           \
+                        "\t\t\t\t if file does not exist - program will create one\n"                       \
+                        " -r, --random\t\t Generate random input. Range [1, 10000]\n"                       \
+                        " --random-input\t\t Create file with generated input\n"                            \
+                        "\n"                                                                                \
+                        "\n"                                                                                \
+                        "INPUT SPECIFICATION:\n"                                                            \
+                        "Input file starts with number of elements (int_32)\n"                              \
+                        "Elements consist of fields:\n"                                                     \
+                        "\t `element_type`: 0 - COMPLEX, 1 - FRACTION, 2 - POLAR\n"                         \
+                        "\t `element_description`:\n"                                                       \
+                        "\t\t COMPLEX: A pair of double numbers - real and imaginary parts.\n"              \
+                        "\t\t\t  example: `10.1 12.0` -> complex: (real=10.1, imaginary=12.0)\n"            \
+                        "\t\t FRACTION: A pair of int_32 numbers - numerator and denominator.\n"            \
+                        "\t\t\t  example: `1 2` -> fraction: 1/2\n"                                         \
+                        "\t\t POLAR: A Double number - angle and a pair of int_32 numbers - coordinates.\n" \
+                        "\t\t\t  example: `10.1 3 4` -> polar: (angle=10.1, coords=(x=3,y=4))\n"            \
+                        "See example at /tests/example.txt"                                                 \
 
 #define ARGC_EXCEPTION_MESSAGE  "Incorrect program input\n" \
                                 "Try 'program --help(-h)' for more information."

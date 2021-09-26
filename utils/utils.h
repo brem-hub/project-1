@@ -3,12 +3,19 @@
 
 #include "random"
 
-static double DoubleRand(double f_min, double f_max){
+/*
+ * Сгенерировать случайное число с плавающей запятой в полуинтервале [d_min, d_max).
+ */
+static double DoubleRand(double d_min, double d_max){
     double f = (double)rand() / RAND_MAX;
-    return f_min + f * (f_max - f_min);
+    return d_min + f * (d_max - d_min);
 }
 
+/*
+ * Сгенерировать случайное целое число в полуинтервале [min, max).
+ */
 static int Random(int min, int max){
     return rand() % max + min;
 }
+
 #endif //PROJECT_UTILS_H
