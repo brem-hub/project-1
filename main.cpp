@@ -112,16 +112,14 @@ FILE* get_output_file(int argc, char* argv[], const char* modes = "w"){
                 return fopen(argv[output_flag_pos + 1], modes);
         }
     }
-
     printf(OUTPUT_FLAG_EXCEPTION_MESSAGE);
     exit(1);
 }
 
-// Открыть файл для записи рандомного ввода.
+// Открыть файл для записи случайно сгенерированного ввода.
 FILE* get_random_input_file(int argc, char* argv[]){
     int random_input_file = find_flag(argc, argv, kRandomInputFlags, kRandomInputFlagsCount);
     if (random_input_file != -1){
-
         if (random_input_file + 1 < argc){
             return fopen(argv[random_input_file + 1], "w");
         }else{
@@ -132,7 +130,7 @@ FILE* get_random_input_file(int argc, char* argv[]){
     return NULL;
 }
 
-// Пропарсить флаг с размером рандомного ввода.
+// Пропарсить флаг с размером случайно сгенерированного ввода.
 int get_random_size(int argc, char* argv[]){
     int random_flag_pos = find_flag(argc, argv, kRandomFlags, kRandomFlagsCount);
     if (random_flag_pos == -1){
@@ -177,11 +175,13 @@ int main(int argc, char* argv[]){
     int random_size = get_random_size(argc, argv);
 
     if (random_size == -1){
+        // read data from input file.
         FILE *input_file = get_input_file(argc, argv);
         error_code = Fill(ct, input_file);
         fclose(input_file);
         printf("Parsed input\n");
     }else{
+        // generate input data.
         srand(static_cast<unsigned int>(time(0)));
         FILE* random_input_file = get_random_input_file(argc, argv);
         error_code = RandomFill(ct, random_size, random_input_file);

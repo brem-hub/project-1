@@ -11,11 +11,18 @@ struct point{
     int y;
 };
 
-// Ввод точки из файла.
-// Формат: <x> <y>\n
- int In(point* pt, FILE* input_file);
+/* Ввод точки из файла.
+ *  Формат: <x> <y>\n
+ * @param: pt - указатель на объект point, который нужно заполнить из файла.
+ * @param: input_file - указатель на входной файл
+ * @returns: status code.
+*/
+int In(point* pt, FILE* input_file);
 
-// Вывод точки в файл.
+/* Вывод точки в файл.
+ * @param: pt - указатель на объект point, который нужно вывести.
+ * @param: output_file - указатель на выходной файл.
+*/
 void Out(const point* pt, FILE* output_file);
 
 #endif //PROJECT_POINT_H

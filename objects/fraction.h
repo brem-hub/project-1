@@ -5,24 +5,36 @@
 #include "../utils/utils.h"
 
 /*
- * Описание базовой структуры дробей.
+ * Описание базовой структуры дробных чисел.
  */
 struct fraction {
     int numerator;
     int denominator;
 };
 
-// Ввод дроби из файла.
-// Формат: <numerator> <denominator>\n
- int In(fraction* frac, FILE* input_file);
+/* Ввод дробного числа из файла.
+ *  Формат: <numerator> <denominator>\n
+ * @param: frac - указатель на объект fraction, который нужно заполнить из файла.
+ * @param: input_file - указатель на входной файл
+ * @returns: status code.
+*/
+int In(fraction* frac, FILE* input_file);
 
-// Случайное заполнение дроби.
+/* Случайное заполнение дробного числа.
+ * @param: frac - указатель на объект fraction, который нужно заполнить.
+ */
 void RandIn(fraction* frac);
 
-// Вывод дроби.
+/* Вывод дробного числа в файл.
+ * @param: frac - указатель на объект fraction, который нужно вывести.
+ * @param: output_file - указатель на выходной файл.
+ */
 void Out(const fraction* frac, FILE* output_file);
 
-// Конвертация к типу double.
+/* Конвертация к типу double.
+ * @param: frac - указатель на объект fraction, который нужно привести к double.
+ * @returns: double представление дробного числа.
+*/
 double CastToDouble(const fraction* frac);
 
 #endif //PROJECT_FRACTION_H
