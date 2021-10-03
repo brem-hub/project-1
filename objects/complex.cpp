@@ -20,7 +20,8 @@ void RandIn(complex* c_n){
 }
 
 void Out(const complex* c_n, FILE* output_file){
-    fprintf(output_file, "complex number: (%lf, %lf)\n", c_n->real, c_n->imaginary);
+    fprintf(output_file, "complex number: (%lf, %lf)l; double representation: %lf\n", c_n->real, c_n->imaginary,
+            CastToDouble(c_n));
 }
 
 double CastToDouble(const complex* c_n){

@@ -23,11 +23,14 @@ int In(fraction *frac, FILE* input_file){
 
 void RandIn(fraction* frac){
     frac->numerator = Random(-100, 100);
-    frac->denominator = Random(1, 100);
+    do{
+        frac->denominator = Random(-100, 100);
+    } while (frac->denominator == 0);
 }
 
 void Out(const fraction* frac, FILE* output_file){
-    fprintf(output_file, "fraction: %d/%d\n", frac->numerator, frac->denominator);
+    fprintf(output_file, "fraction: %d/%d; double representation: %lf\n", frac->numerator, frac->denominator,
+            CastToDouble(frac));
 }
 
 double CastToDouble(const fraction* frac){

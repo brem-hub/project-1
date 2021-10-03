@@ -17,5 +17,5 @@ int In(point* pt, FILE* input_file){
 }
 
 void Out(const point* pt, FILE* output_file){
-    fprintf(output_file, "(%d, %d)\n", pt->x, pt->y);
+    fprintf(output_file, "(%d, %d)", pt->x, pt->y);
 }

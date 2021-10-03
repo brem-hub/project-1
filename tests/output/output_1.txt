@@ -1,26 +1,26 @@
-0: fraction: -71/3
-1: complex number: (-70.765831, -50.672984)
-2: polar: w=9.130007; coords=(-74, -30)
-3: complex number: (-80.854505, 42.695098)
-4: polar: w=2.289827; coords=(-11, -2)
-5: polar: w=1.358063; coords=(-90, -66)
-6: complex number: (95.420260, -28.275194)
-7: polar: w=4.306791; coords=(-6, -13)
-8: fraction: -71/12
-9: complex number: (-78.713448, 99.300769)
+0: fraction: -71/3;  double representation: -23.666667
+1: complex number: (-70.765831, -50.672984)l; double representation: 87.037659
+2: polar: w=9.130007; coords=(-74, -30) ; double representation: 79.849859
+3: complex number: (-80.854505, 42.695098)l; double representation: 91.434798
+4: polar: w=2.289827; coords=(-11, -2) ; double representation: 11.180340
+5: polar: w=1.358063; coords=(-90, -66) ; double representation: 111.606451
+6: complex number: (95.420260, -28.275194)l; double representation: 99.521418
+7: polar: w=4.306791; coords=(-6, -13) ; double representation: 14.317821
+8: fraction: -71/12;  double representation: -5.916667
+9: complex number: (-78.713448, 99.300769)l; double representation: 126.714047
 =======================
 
 number of elements: 10
 
 ====| Straight Sort results | ====
 
-0: fraction: -71/3
-1: fraction: -71/12
-2: polar: w=2.289827; coords=(-11, -2)
-3: polar: w=4.306791; coords=(-6, -13)
-4: polar: w=9.130007; coords=(-74, -30)
-5: complex number: (-70.765831, -50.672984)
-6: complex number: (-80.854505, 42.695098)
-7: complex number: (95.420260, -28.275194)
-8: polar: w=1.358063; coords=(-90, -66)
-9: complex number: (-78.713448, 99.300769)
+0: fraction: -71/3;  double representation: -23.666667
+1: fraction: -71/12;  double representation: -5.916667
+2: polar: w=2.289827; coords=(-11, -2) ; double representation: 11.180340
+3: polar: w=4.306791; coords=(-6, -13) ; double representation: 14.317821
+4: polar: w=9.130007; coords=(-74, -30) ; double representation: 79.849859
+5: complex number: (-70.765831, -50.672984)l; double representation: 87.037659
+6: complex number: (-80.854505, 42.695098)l; double representation: 91.434798
+7: complex number: (95.420260, -28.275194)l; double representation: 99.521418
+8: polar: w=1.358063; coords=(-90, -66) ; double representation: 111.606451
+9: complex number: (-78.713448, 99.300769)l; double representation: 126.714047

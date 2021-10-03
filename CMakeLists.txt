@@ -24,7 +24,7 @@ set(SOURCE_FILES
         container/container.cpp
         )
 
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${BUILD_DIR}/../bin")
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${BUILD_DIR}/bin")
 set(BINARY_DIR "${CMAKE_BINARY_DIR}")
 
 

@@ -1,206 +1,206 @@
-0: fraction: -1/25
-1: complex number: (-76.326936, -97.193054)
-2: complex number: (-45.386324, 61.750087)
-3: polar: w=7.239827; coords=(-3, -35)
-4: complex number: (32.649476, -90.777492)
-5: polar: w=2.633306; coords=(-15, -38)
-6: complex number: (5.612905, 19.846164)
-7: polar: w=1.373260; coords=(-32, -100)
-8: fraction: -58/45
-9: fraction: -94/44
-10: fraction: -71/91
-11: fraction: -65/72
-12: fraction: -45/79
-13: polar: w=6.182854; coords=(-42, -33)
-14: polar: w=4.419411; coords=(-50, -67)
-15: complex number: (-11.558991, 74.975411)
-16: polar: w=7.718857; coords=(-79, -96)
-17: fraction: -42/99
-18: polar: w=4.344773; coords=(-96, -22)
-19: polar: w=9.645548; coords=(-32, -17)
-20: fraction: -9/98
-21: fraction: -31/62
-22: polar: w=7.464221; coords=(-20, -53)
-23: fraction: -17/82
-24: fraction: -63/1
-25: fraction: -77/23
-26: complex number: (44.040702, 29.197513)
-27: complex number: (2.370679, -83.907030)
-28: polar: w=2.276848; coords=(-53, -61)
-29: polar: w=5.141456; coords=(-40, -63)
-30: complex number: (-80.509603, -65.270375)
-31: fraction: -9/35
-32: polar: w=5.848784; coords=(-2, -92)
-33: fraction: -94/47
-34: complex number: (26.195317, -36.686808)
-35: fraction: -48/36
-36: complex number: (-68.409473, 9.724573)
-37: complex number: (-20.266061, 55.261537)
-38: fraction: -5/4
-39: complex number: (-18.367052, 64.485484)
-40: polar: w=5.056167; coords=(-54, -67)
-41: fraction: -68/59
-42: fraction: -17/68
-43: polar: w=8.369046; coords=(-35, -77)
-44: polar: w=3.766538; coords=(-27, -6)
-45: complex number: (57.655310, 90.992411)
-46: polar: w=6.297387; coords=(-97, -39)
-47: fraction: -2/17
-48: complex number: (-26.852392, -35.369593)
-49: polar: w=8.713548; coords=(-93, -53)
-50: fraction: -9/58
-51: polar: w=2.599527; coords=(-76, -28)
-52: complex number: (27.599397, -99.053399)
-53: polar: w=0.146508; coords=(-79, -97)
-54: polar: w=8.202888; coords=(-49, -46)
-55: fraction: -46/68
-56: complex number: (25.582982, 25.839727)
-57: complex number: (98.730590, 90.470134)
-58: complex number: (73.001542, -45.684350)
-59: complex number: (-49.810918, 1.390327)
-60: fraction: -18/18
-61: complex number: (65.761603, 72.752303)
-62: fraction: -97/43
-63: complex number: (73.110648, 58.049543)
-64: complex number: (37.168402, -78.608484)
-65: complex number: (-72.826097, 55.459838)
-66: fraction: -57/60
-67: polar: w=2.658256; coords=(-28, -29)
-68: fraction: -60/24
-69: polar: w=5.148202; coords=(-34, -94)
-70: fraction: -65/58
-71: polar: w=5.329379; coords=(-3, -54)
-72: complex number: (11.909017, 55.813380)
-73: complex number: (16.628761, -7.018219)
-74: fraction: -90/43
-75: complex number: (7.811136, -95.390201)
-76: fraction: -20/84
-77: polar: w=8.341895; coords=(-1, -12)
-78: fraction: -68/43
-79: complex number: (5.579108, -6.023389)
-80: fraction: -5/23
-81: polar: w=8.750625; coords=(-79, -33)
-82: polar: w=2.424363; coords=(-20, -48)
-83: polar: w=9.056631; coords=(-86, -34)
-84: complex number: (10.733962, -33.765484)
-85: fraction: -1/88
-86: fraction: -98/87
-87: polar: w=3.278166; coords=(-82, -86)
-88: fraction: -91/46
-89: complex number: (-68.213071, 93.028158)
-90: complex number: (-93.200567, -14.297970)
-91: complex number: (-6.279047, 34.189281)
-92: polar: w=4.863562; coords=(-39, -52)
-93: polar: w=6.864152; coords=(-92, -49)
-94: fraction: -9/51
-95: polar: w=9.896240; coords=(-47, -91)
-96: fraction: -18/28
-97: polar: w=2.044792; coords=(-12, -37)
-98: polar: w=3.968303; coords=(-17, -77)
-99: fraction: -76/49
+0: fraction: -1/25;  double representation: -0.040000
+1: complex number: (-76.326936, -97.193054)l; double representation: 123.581111
+2: complex number: (-45.386324, 61.750087)l; double representation: 76.635446
+3: polar: w=7.239827; coords=(-3, -35) ; double representation: 35.128336
+4: complex number: (32.649476, -90.777492)l; double representation: 96.470417
+5: polar: w=2.633306; coords=(-15, -38) ; double representation: 40.853396
+6: complex number: (5.612905, 19.846164)l; double representation: 20.624619
+7: polar: w=1.373260; coords=(-32, -100) ; double representation: 104.995238
+8: fraction: -58/45;  double representation: -1.288889
+9: fraction: -94/44;  double representation: -2.136364
+10: fraction: -71/91;  double representation: -0.780220
+11: fraction: -65/72;  double representation: -0.902778
+12: fraction: -45/79;  double representation: -0.569620
+13: polar: w=6.182854; coords=(-42, -33) ; double representation: 53.413481
+14: polar: w=4.419411; coords=(-50, -67) ; double representation: 83.600239
+15: complex number: (-11.558991, 74.975411)l; double representation: 75.861206
+16: polar: w=7.718857; coords=(-79, -96) ; double representation: 124.326184
+17: fraction: -42/99;  double representation: -0.424242
+18: polar: w=4.344773; coords=(-96, -22) ; double representation: 98.488578
+19: polar: w=9.645548; coords=(-32, -17) ; double representation: 36.235342
+20: fraction: -9/98;  double representation: -0.091837
+21: fraction: -31/62;  double representation: -0.500000
+22: polar: w=7.464221; coords=(-20, -53) ; double representation: 56.648036
+23: fraction: -17/82;  double representation: -0.207317
+24: fraction: -63/1;  double representation: -63.000000
+25: fraction: -77/23;  double representation: -3.347826
+26: complex number: (44.040702, 29.197513)l; double representation: 52.840119
+27: complex number: (2.370679, -83.907030)l; double representation: 83.940513
+28: polar: w=2.276848; coords=(-53, -61) ; double representation: 80.808415
+29: polar: w=5.141456; coords=(-40, -63) ; double representation: 74.625733
+30: complex number: (-80.509603, -65.270375)l; double representation: 103.643707
+31: fraction: -9/35;  double representation: -0.257143
+32: polar: w=5.848784; coords=(-2, -92) ; double representation: 92.021737
+33: fraction: -94/47;  double representation: -2.000000
+34: complex number: (26.195317, -36.686808)l; double representation: 45.079003
+35: fraction: -48/36;  double representation: -1.333333
+36: complex number: (-68.409473, 9.724573)l; double representation: 69.097202
+37: complex number: (-20.266061, 55.261537)l; double representation: 58.860434
+38: fraction: -5/4;  double representation: -1.250000
+39: complex number: (-18.367052, 64.485484)l; double representation: 67.050177
+40: polar: w=5.056167; coords=(-54, -67) ; double representation: 86.052310
+41: fraction: -68/59;  double representation: -1.152542
+42: fraction: -17/68;  double representation: -0.250000
+43: polar: w=8.369046; coords=(-35, -77) ; double representation: 84.581322
+44: polar: w=3.766538; coords=(-27, -6) ; double representation: 27.658633
+45: complex number: (57.655310, 90.992411)l; double representation: 107.720721
+46: polar: w=6.297387; coords=(-97, -39) ; double representation: 104.546640
+47: fraction: -2/17;  double representation: -0.117647
+48: complex number: (-26.852392, -35.369593)l; double representation: 44.407872
+49: polar: w=8.713548; coords=(-93, -53) ; double representation: 107.042048
+50: fraction: -9/58;  double representation: -0.155172
+51: polar: w=2.599527; coords=(-76, -28) ; double representation: 80.993827
+52: complex number: (27.599397, -99.053399)l; double representation: 102.826565
+53: polar: w=0.146508; coords=(-79, -97) ; double representation: 125.099960
+54: polar: w=8.202888; coords=(-49, -46) ; double representation: 67.208630
+55: fraction: -46/68;  double representation: -0.676471
+56: complex number: (25.582982, 25.839727)l; double representation: 36.361799
+57: complex number: (98.730590, 90.470134)l; double representation: 133.912563
+58: complex number: (73.001542, -45.684350)l; double representation: 86.117855
+59: complex number: (-49.810918, 1.390327)l; double representation: 49.830318
+60: fraction: -18/18;  double representation: -1.000000
+61: complex number: (65.761603, 72.752303)l; double representation: 98.068782
+62: fraction: -97/43;  double representation: -2.255814
+63: complex number: (73.110648, 58.049543)l; double representation: 93.353716
+64: complex number: (37.168402, -78.608484)l; double representation: 86.952768
+65: complex number: (-72.826097, 55.459838)l; double representation: 91.539249
+66: fraction: -57/60;  double representation: -0.950000
+67: polar: w=2.658256; coords=(-28, -29) ; double representation: 40.311289
+68: fraction: -60/24;  double representation: -2.500000
+69: polar: w=5.148202; coords=(-34, -94) ; double representation: 99.959992
+70: fraction: -65/58;  double representation: -1.120690
+71: polar: w=5.329379; coords=(-3, -54) ; double representation: 54.083269
+72: complex number: (11.909017, 55.813380)l; double representation: 57.069765
+73: complex number: (16.628761, -7.018219)l; double representation: 18.049130
+74: fraction: -90/43;  double representation: -2.093023
+75: complex number: (7.811136, -95.390201)l; double representation: 95.709479
+76: fraction: -20/84;  double representation: -0.238095
+77: polar: w=8.341895; coords=(-1, -12) ; double representation: 12.041595
+78: fraction: -68/43;  double representation: -1.581395
+79: complex number: (5.579108, -6.023389)l; double representation: 8.210217
+80: fraction: -5/23;  double representation: -0.217391
+81: polar: w=8.750625; coords=(-79, -33) ; double representation: 85.615419
+82: polar: w=2.424363; coords=(-20, -48) ; double representation: 52.000000
+83: polar: w=9.056631; coords=(-86, -34) ; double representation: 92.477024
+84: complex number: (10.733962, -33.765484)l; double representation: 35.430578
+85: fraction: -1/88;  double representation: -0.011364
+86: fraction: -98/87;  double representation: -1.126437
+87: polar: w=3.278166; coords=(-82, -86) ; double representation: 118.827606
+88: fraction: -91/46;  double representation: -1.978261
+89: complex number: (-68.213071, 93.028158)l; double representation: 115.357103
+90: complex number: (-93.200567, -14.297970)l; double representation: 94.290920
+91: complex number: (-6.279047, 34.189281)l; double representation: 34.761090
+92: polar: w=4.863562; coords=(-39, -52) ; double representation: 65.000000
+93: polar: w=6.864152; coords=(-92, -49) ; double representation: 104.235311
+94: fraction: -9/51;  double representation: -0.176471
+95: polar: w=9.896240; coords=(-47, -91) ; double representation: 102.420701
+96: fraction: -18/28;  double representation: -0.642857
+97: polar: w=2.044792; coords=(-12, -37) ; double representation: 38.897301
+98: polar: w=3.968303; coords=(-17, -77) ; double representation: 78.854296
+99: fraction: -76/49;  double representation: -1.551020
 =======================
 
 number of elements: 100
 
 ====| Straight Sort results | ====
 
-0: fraction: -63/1
-1: fraction: -77/23
-2: fraction: -60/24
-3: fraction: -97/43
-4: fraction: -94/44
-5: fraction: -90/43
-6: fraction: -94/47
-7: fraction: -91/46
-8: fraction: -68/43
-9: fraction: -76/49
-10: fraction: -48/36
-11: fraction: -58/45
-12: fraction: -5/4
-13: fraction: -68/59
-14: fraction: -98/87
-15: fraction: -65/58
-16: fraction: -18/18
-17: fraction: -57/60
-18: fraction: -65/72
-19: fraction: -71/91
-20: fraction: -46/68
-21: fraction: -18/28
-22: fraction: -45/79
-23: fraction: -31/62
-24: fraction: -42/99
-25: fraction: -9/35
-26: fraction: -17/68
-27: fraction: -20/84
-28: fraction: -5/23
-29: fraction: -17/82
-30: fraction: -9/51
-31: fraction: -9/58
-32: fraction: -2/17
-33: fraction: -9/98
-34: fraction: -1/25
-35: fraction: -1/88
-36: complex number: (5.579108, -6.023389)
-37: polar: w=8.341895; coords=(-1, -12)
-38: complex number: (16.628761, -7.018219)
-39: complex number: (5.612905, 19.846164)
-40: polar: w=3.766538; coords=(-27, -6)
-41: complex number: (-6.279047, 34.189281)
-42: polar: w=7.239827; coords=(-3, -35)
-43: complex number: (10.733962, -33.765484)
-44: polar: w=9.645548; coords=(-32, -17)
-45: complex number: (25.582982, 25.839727)
-46: polar: w=2.044792; coords=(-12, -37)
-47: polar: w=2.658256; coords=(-28, -29)
-48: polar: w=2.633306; coords=(-15, -38)
-49: complex number: (-26.852392, -35.369593)
-50: complex number: (26.195317, -36.686808)
-51: complex number: (-49.810918, 1.390327)
-52: polar: w=2.424363; coords=(-20, -48)
-53: complex number: (44.040702, 29.197513)
-54: polar: w=6.182854; coords=(-42, -33)
-55: polar: w=5.329379; coords=(-3, -54)
-56: polar: w=7.464221; coords=(-20, -53)
-57: complex number: (11.909017, 55.813380)
-58: complex number: (-20.266061, 55.261537)
-59: polar: w=4.863562; coords=(-39, -52)
-60: complex number: (-18.367052, 64.485484)
-61: polar: w=8.202888; coords=(-49, -46)
-62: complex number: (-68.409473, 9.724573)
-63: polar: w=5.141456; coords=(-40, -63)
-64: complex number: (-11.558991, 74.975411)
-65: complex number: (-45.386324, 61.750087)
-66: polar: w=3.968303; coords=(-17, -77)
-67: polar: w=2.276848; coords=(-53, -61)
-68: polar: w=2.599527; coords=(-76, -28)
-69: polar: w=4.419411; coords=(-50, -67)
-70: complex number: (2.370679, -83.907030)
-71: polar: w=8.369046; coords=(-35, -77)
-72: polar: w=8.750625; coords=(-79, -33)
-73: polar: w=5.056167; coords=(-54, -67)
-74: complex number: (73.001542, -45.684350)
-75: complex number: (37.168402, -78.608484)
-76: complex number: (-72.826097, 55.459838)
-77: polar: w=5.848784; coords=(-2, -92)
-78: polar: w=9.056631; coords=(-86, -34)
-79: complex number: (73.110648, 58.049543)
-80: complex number: (-93.200567, -14.297970)
-81: complex number: (7.811136, -95.390201)
-82: complex number: (32.649476, -90.777492)
-83: complex number: (65.761603, 72.752303)
-84: polar: w=4.344773; coords=(-96, -22)
-85: polar: w=5.148202; coords=(-34, -94)
-86: polar: w=9.896240; coords=(-47, -91)
-87: complex number: (27.599397, -99.053399)
-88: complex number: (-80.509603, -65.270375)
-89: polar: w=6.864152; coords=(-92, -49)
-90: polar: w=6.297387; coords=(-97, -39)
-91: polar: w=1.373260; coords=(-32, -100)
-92: polar: w=8.713548; coords=(-93, -53)
-93: complex number: (57.655310, 90.992411)
-94: complex number: (-68.213071, 93.028158)
-95: polar: w=3.278166; coords=(-82, -86)
-96: complex number: (-76.326936, -97.193054)
-97: polar: w=7.718857; coords=(-79, -96)
-98: polar: w=0.146508; coords=(-79, -97)
-99: complex number: (98.730590, 90.470134)
+0: fraction: -63/1;  double representation: -63.000000
+1: fraction: -77/23;  double representation: -3.347826
+2: fraction: -60/24;  double representation: -2.500000
+3: fraction: -97/43;  double representation: -2.255814
+4: fraction: -94/44;  double representation: -2.136364
+5: fraction: -90/43;  double representation: -2.093023
+6: fraction: -94/47;  double representation: -2.000000
+7: fraction: -91/46;  double representation: -1.978261
+8: fraction: -68/43;  double representation: -1.581395
+9: fraction: -76/49;  double representation: -1.551020
+10: fraction: -48/36;  double representation: -1.333333
+11: fraction: -58/45;  double representation: -1.288889
+12: fraction: -5/4;  double representation: -1.250000
+13: fraction: -68/59;  double representation: -1.152542
+14: fraction: -98/87;  double representation: -1.126437
+15: fraction: -65/58;  double representation: -1.120690
+16: fraction: -18/18;  double representation: -1.000000
+17: fraction: -57/60;  double representation: -0.950000
+18: fraction: -65/72;  double representation: -0.902778
+19: fraction: -71/91;  double representation: -0.780220
+20: fraction: -46/68;  double representation: -0.676471
+21: fraction: -18/28;  double representation: -0.642857
+22: fraction: -45/79;  double representation: -0.569620
+23: fraction: -31/62;  double representation: -0.500000
+24: fraction: -42/99;  double representation: -0.424242
+25: fraction: -9/35;  double representation: -0.257143
+26: fraction: -17/68;  double representation: -0.250000
+27: fraction: -20/84;  double representation: -0.238095
+28: fraction: -5/23;  double representation: -0.217391
+29: fraction: -17/82;  double representation: -0.207317
+30: fraction: -9/51;  double representation: -0.176471
+31: fraction: -9/58;  double representation: -0.155172
+32: fraction: -2/17;  double representation: -0.117647
+33: fraction: -9/98;  double representation: -0.091837
+34: fraction: -1/25;  double representation: -0.040000
+35: fraction: -1/88;  double representation: -0.011364
+36: complex number: (5.579108, -6.023389)l; double representation: 8.210217
+37: polar: w=8.341895; coords=(-1, -12) ; double representation: 12.041595
+38: complex number: (16.628761, -7.018219)l; double representation: 18.049130
+39: complex number: (5.612905, 19.846164)l; double representation: 20.624619
+40: polar: w=3.766538; coords=(-27, -6) ; double representation: 27.658633
+41: complex number: (-6.279047, 34.189281)l; double representation: 34.761090
+42: polar: w=7.239827; coords=(-3, -35) ; double representation: 35.128336
+43: complex number: (10.733962, -33.765484)l; double representation: 35.430578
+44: polar: w=9.645548; coords=(-32, -17) ; double representation: 36.235342
+45: complex number: (25.582982, 25.839727)l; double representation: 36.361799
+46: polar: w=2.044792; coords=(-12, -37) ; double representation: 38.897301
+47: polar: w=2.658256; coords=(-28, -29) ; double representation: 40.311289
+48: polar: w=2.633306; coords=(-15, -38) ; double representation: 40.853396
+49: complex number: (-26.852392, -35.369593)l; double representation: 44.407872
+50: complex number: (26.195317, -36.686808)l; double representation: 45.079003
+51: complex number: (-49.810918, 1.390327)l; double representation: 49.830318
+52: polar: w=2.424363; coords=(-20, -48) ; double representation: 52.000000
+53: complex number: (44.040702, 29.197513)l; double representation: 52.840119
+54: polar: w=6.182854; coords=(-42, -33) ; double representation: 53.413481
+55: polar: w=5.329379; coords=(-3, -54) ; double representation: 54.083269
+56: polar: w=7.464221; coords=(-20, -53) ; double representation: 56.648036
+57: complex number: (11.909017, 55.813380)l; double representation: 57.069765
+58: complex number: (-20.266061, 55.261537)l; double representation: 58.860434
+59: polar: w=4.863562; coords=(-39, -52) ; double representation: 65.000000
+60: complex number: (-18.367052, 64.485484)l; double representation: 67.050177
+61: polar: w=8.202888; coords=(-49, -46) ; double representation: 67.208630
+62: complex number: (-68.409473, 9.724573)l; double representation: 69.097202
+63: polar: w=5.141456; coords=(-40, -63) ; double representation: 74.625733
+64: complex number: (-11.558991, 74.975411)l; double representation: 75.861206
+65: complex number: (-45.386324, 61.750087)l; double representation: 76.635446
+66: polar: w=3.968303; coords=(-17, -77) ; double representation: 78.854296
+67: polar: w=2.276848; coords=(-53, -61) ; double representation: 80.808415
+68: polar: w=2.599527; coords=(-76, -28) ; double representation: 80.993827
+69: polar: w=4.419411; coords=(-50, -67) ; double representation: 83.600239
+70: complex number: (2.370679, -83.907030)l; double representation: 83.940513
+71: polar: w=8.369046; coords=(-35, -77) ; double representation: 84.581322
+72: polar: w=8.750625; coords=(-79, -33) ; double representation: 85.615419
+73: polar: w=5.056167; coords=(-54, -67) ; double representation: 86.052310
+74: complex number: (73.001542, -45.684350)l; double representation: 86.117855
+75: complex number: (37.168402, -78.608484)l; double representation: 86.952768
+76: complex number: (-72.826097, 55.459838)l; double representation: 91.539249
+77: polar: w=5.848784; coords=(-2, -92) ; double representation: 92.021737
+78: polar: w=9.056631; coords=(-86, -34) ; double representation: 92.477024
+79: complex number: (73.110648, 58.049543)l; double representation: 93.353716
+80: complex number: (-93.200567, -14.297970)l; double representation: 94.290920
+81: complex number: (7.811136, -95.390201)l; double representation: 95.709479
+82: complex number: (32.649476, -90.777492)l; double representation: 96.470417
+83: complex number: (65.761603, 72.752303)l; double representation: 98.068782
+84: polar: w=4.344773; coords=(-96, -22) ; double representation: 98.488578
+85: polar: w=5.148202; coords=(-34, -94) ; double representation: 99.959992
+86: polar: w=9.896240; coords=(-47, -91) ; double representation: 102.420701
+87: complex number: (27.599397, -99.053399)l; double representation: 102.826565
+88: complex number: (-80.509603, -65.270375)l; double representation: 103.643707
+89: polar: w=6.864152; coords=(-92, -49) ; double representation: 104.235311
+90: polar: w=6.297387; coords=(-97, -39) ; double representation: 104.546640
+91: polar: w=1.373260; coords=(-32, -100) ; double representation: 104.995238
+92: polar: w=8.713548; coords=(-93, -53) ; double representation: 107.042048
+93: complex number: (57.655310, 90.992411)l; double representation: 107.720721
+94: complex number: (-68.213071, 93.028158)l; double representation: 115.357103
+95: polar: w=3.278166; coords=(-82, -86) ; double representation: 118.827606
+96: complex number: (-76.326936, -97.193054)l; double representation: 123.581111
+97: polar: w=7.718857; coords=(-79, -96) ; double representation: 124.326184
+98: polar: w=0.146508; coords=(-79, -97) ; double representation: 125.099960
+99: complex number: (98.730590, 90.470134)l; double representation: 133.912563

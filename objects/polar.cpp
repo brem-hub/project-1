@@ -27,6 +27,7 @@ void RandIn(polar* pol){
 void Out(const polar* pol, FILE* output_file){
     fprintf(output_file, "polar: w=%lf; coords=", pol->angle);
     Out(&pol->coords, output_file);
+    fprintf(output_file, " ; double representation: %lf\n", CastToDouble(pol));
 }
 
 double CastToDouble(const polar* pol){
